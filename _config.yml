@@ -20,7 +20,7 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "HDU Computational Photography Lab"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "HDU Computational Photography Lab"
+name                     : "杭州电子科技大学计算成像实验室"
 description              : "A small funny place"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -114,7 +114,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "杭州电子科技大学计算成像实验室"
+  name             : "HDU Computational Photography Lab"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Our home"
   location         : "杭州，中国"
