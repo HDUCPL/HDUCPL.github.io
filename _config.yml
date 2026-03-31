@@ -17,10 +17,10 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "HDU Computational Photography Lab"
+title                    : "杭州电子科技大学计算成像实验室"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "杭州电子科技大学计算成像实验室"
+name                     : "HDU Computational Photography Lab"
 description              : "A small funny place"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
