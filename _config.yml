@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 # Site Settings
 locale                   : "zh-CN"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "HDU Computational Photography Lab"
+title                    : "杭州电子科技大学计算成像实验室"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "HDU Computational Photography Lab"
@@ -114,7 +114,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "杭州电子科技大学计算成像实验室"
+  name             : "HDU Computational Photography Lab"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Our home"
   location         : "杭州，中国"
@@ -135,7 +135,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://HDUCPL.github.io/"
+      url: "https://github.com/HDUCPL"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -152,7 +152,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://HDUCPL.github.io/"
+      url: "https://github.com/HDUCPL"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
