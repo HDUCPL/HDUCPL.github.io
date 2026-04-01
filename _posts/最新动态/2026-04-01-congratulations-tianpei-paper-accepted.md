@@ -3,7 +3,7 @@ title: "恭喜张天培同学论文录用"
 date: 2026-04-01
 layout: single
 categories:
-  - 科研成果
+  - 最新动态
 header:
   teaser: /assets/images/congratulation-tianpei-2026-04-01.png  # 你需要把论文截图放在这个路径下
 ---
