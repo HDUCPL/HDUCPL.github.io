@@ -12,3 +12,6 @@ tags:                                 # 标签（用于标记具体关键词）
 ---
 
 恭喜张天培同学的论文被Infrared Physics and Technology录用！
+
+Arxiv 预印本：
+https://arxiv.org/abs/2509.05000

@@ -17,17 +17,10 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 # Site Settings
 locale                   : "zh-CN"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-<<<<<<< HEAD
-title                    : "Weiping's home"
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Weiping Hua"
-=======
 title                    : "杭州电子科技大学计算成像实验室"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "HDU Computational Photography Lab"
->>>>>>> 2e21b06b333da34815f03e0c2a861652677f0872
 description              : "A small funny place"
 url                      : "https://hducpl.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -121,27 +114,16 @@ analytics:
 
 # Site Author
 author:
-<<<<<<< HEAD
-  name             : "Weiping Hua"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Just a guy looking for a peaceful afternoon"
-  location         : "Hangzhou, China"
-=======
   name             : "HDU Computational Photography Lab"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Our home"
   location         : "杭州，中国"
->>>>>>> 2e21b06b333da34815f03e0c2a861652677f0872
   email            : 
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
     - label: "Email"
       icon: "fas fa-fw fa-square-envelope"
-<<<<<<< HEAD
-      url: mailto:huaweiping0@gmail.com
-=======
       # url: mailto:huaweiping0@gmail.com
->>>>>>> 2e21b06b333da34815f03e0c2a861652677f0872
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -153,11 +135,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-<<<<<<< HEAD
-      url: "https://huaweiping.github.io/"
-=======
       url: "https://github.com/HDUCPL"
->>>>>>> 2e21b06b333da34815f03e0c2a861652677f0872
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -174,11 +152,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-<<<<<<< HEAD
-      url: "https://huaweiping.github.io/"
-=======
       url: "https://github.com/HDUCPL"
->>>>>>> 2e21b06b333da34815f03e0c2a861652677f0872
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
