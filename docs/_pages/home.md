@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: posts
 permalink: /
 hidden: true
 header:
