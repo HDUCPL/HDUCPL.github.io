@@ -116,7 +116,7 @@ analytics:
 author:
   name             : "Weiping Hua"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "A guy looking for a peaceful afternoon"
+  bio              : "Just a guy looking for a peaceful afternoon"
   location         : "Hangzhou, China"
   email            : 
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
