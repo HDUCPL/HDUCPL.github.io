@@ -1,8 +1,13 @@
+<<<<<<< HEAD
 # [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
+=======
+# 杭州电子科技大学计算成像实验室
+>>>>>>> 2e21b06b333da34815f03e0c2a861652677f0872
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE)
 [![Jekyll](https://img.shields.io/badge/jekyll-%3E%3D%203.7-blue.svg)](https://jekyllrb.com/)
 
+<<<<<<< HEAD
 Minimal Mistakes is a flexible two-column Jekyll theme, perfect for building personal sites, blogs, and portfolios. As the name implies, styling is purposely minimalistic to be enhanced and customized by you :smile:.
 
 :sparkles: See what's new in the [CHANGELOG](CHANGELOG.md).
@@ -291,3 +296,6 @@ Lunr is distributed under the terms of the [MIT License](http://opensource.org/l
 Minimal Mistakes incorporates [clipboard.js](https://clipboardjs.com/),
 Copyright (c) 2021 Zeno Rocha.
 Clipboard.js is distributed under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+=======
+这是杭州电子科技大学计算城乡实验室的主页源代码仓库！该网站基于[Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/)修改完成，并在[Github Pages](https://pages.github.com/)上发布 
+>>>>>>> 2e21b06b333da34815f03e0c2a861652677f0872
