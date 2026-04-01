@@ -3,10 +3,10 @@ main:
   - title: "最新动态"
     url: /news/
   - title: "实验室简介"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: /labIntro/
   - title: "实验室人员"
-    url: /year-archive/
+    url: /people/
   - title: "科研成果"
     url: /research/
   - title: "关于我们"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /about/
