@@ -1,29 +1,6 @@
 ---
 layout: home
 author_profile: true
+entries_layout: grid
+list_title: "实验室动态"
 ---
-
-<!-- 这里是你原本可能有的欢迎语或图片 -->
-<div class="intro">
-    <p>欢迎来到我的博客！</p>
-  </div>
-  
-  <!-- 下面是刚才插入的文章列表代码 -->
-  {% assign posts = site.posts %}
-  {% if posts.size > 0 %}
-    <ul class="taxonomy__index">
-      {% for post in posts %}
-        {% unless post.hidden %}
-          <li>
-            <a href="{{ post.url }}">
-              <strong>{{ post.title | escape }}</strong>
-              <span class="taxonomy__count">{{ post.date | date: "%Y-%m-%d" }}</span>
-            </a>
-            {% if post.excerpt %}
-              <p class="page__excerpt">{{ post.excerpt | strip_html | truncate: 100 }}</p>
-            {% endif %}
-          </li>
-        {% endunless %}
-      {% endfor %}
-    </ul>
-  {% endif %}
