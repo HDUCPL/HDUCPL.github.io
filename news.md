@@ -2,7 +2,7 @@
 layout: category
 taxonomy: 实验室生活
 title: "实验室生活"
-permalink: /news/
+permalink: /categories/#实验室生活/
 author_profile: true
 entries_layout: list
 header:

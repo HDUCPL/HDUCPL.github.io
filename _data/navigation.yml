@@ -5,8 +5,8 @@ main:
   - title: "实验室人员"
     url: /people/
   - title: "科研成果"
-    url: /research/
+    url: /categories/#科研成果/
   - title: "实验室生活"
-    url: /news/
+    url: /categories/#实验室生活/
   - title: "关于我们"
     url: /about/
