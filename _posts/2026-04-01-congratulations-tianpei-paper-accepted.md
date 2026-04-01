@@ -15,3 +15,5 @@ header:
 恭喜张天培同学的论文被 **Infrared Physics and Technology** 录用！
 
 **Arxiv 预印本：** [https://arxiv.org/abs/2509.05000](https://arxiv.org/abs/2509.05000)
+
+<img src="/assets/images/congratulation-tianpei-2026-04-01.png" alt="描述" class="align-center">
