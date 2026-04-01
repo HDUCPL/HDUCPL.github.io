@@ -332,3 +332,20 @@ defaults:
       related: true
       show_date: true
 
+  
+  - scope:
+      path: "_posts/news"
+    values:
+      permalink: /news/:title/
+
+  
+  - scope:
+      path: "_posts/research"
+    values:
+      permalink: /research/:title/
+
+  
+  - scope:
+      path: "_posts/members"
+    values:
+      permalink: /members/:title/
