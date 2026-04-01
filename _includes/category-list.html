@@ -18,3 +18,14 @@
     </span>
   </p>
 {% endif %}
+
+{% case category %}
+  {% when "最新动态" %}
+    {% assign category_path = "/news/" %}
+  {% when "科研成果" %}
+    {% assign category_path = "/research/" %}
+  {% else %}
+    {% assign category_path = "/categories/#" | append: (category | slugify) %}
+{% endcase %}
+
+<a href="{{ category_path | relative_url }}" class="page__taxonomy-item p-category" rel="tag">{{ category }}</a>
