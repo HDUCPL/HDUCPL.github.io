@@ -9,3 +9,5 @@ header:
 ---
 
 2025年年会成功举办！
+
+<img src="/assets/images/annual-convention-2025.jpg" alt="描述" class="align-center">

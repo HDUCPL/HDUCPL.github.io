@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: "关于我们"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "最新动态"
     url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "实验室简介"
@@ -10,3 +8,5 @@ main:
     url: /year-archive/
   - title: "科研成果"
     url: /collection-archive/
+  - title: "关于我们"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
