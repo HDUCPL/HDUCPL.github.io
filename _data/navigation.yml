@@ -7,6 +7,6 @@ main:
   - title: "实验室人员"
     url: /year-archive/
   - title: "科研成果"
-    url: /collection-archive/
+    url: /research/
   - title: "关于我们"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
