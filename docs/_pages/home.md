@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: home
 permalink: /
 hidden: true
 header:
@@ -36,3 +36,5 @@ feature_row:
 ---
 
 {% include feature_row %}
+
+{% include posts/archive %}
