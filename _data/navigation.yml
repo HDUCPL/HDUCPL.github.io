@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "最新动态"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: /news/
   - title: "实验室简介"
     url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "实验室人员"
