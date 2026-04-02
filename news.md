@@ -1,7 +1,7 @@
 ---
 layout: category
-taxonomy: 实验室生活
-title: "实验室生活"
+taxonomy: 最新动态
+title: "最新动态"
 permalink: /news/
 author_profile: true
 entries_layout: list
