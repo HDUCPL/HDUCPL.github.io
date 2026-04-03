@@ -331,6 +331,7 @@ defaults:
       share: true
       related: true
       show_date: true
+      show_excerpts: false
 
   
   - scope:
