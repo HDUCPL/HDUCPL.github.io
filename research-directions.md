@@ -1,7 +1,7 @@
 ---
-title: "实验室人员"
+title: "实验室研究方向"
 date: 2026-01-01
 layout: single
-permalink: /people/
+permalink: /research-directions/
 author_profile: true
 ---
