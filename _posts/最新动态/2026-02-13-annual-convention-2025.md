@@ -4,7 +4,6 @@ date: 2026-02-13
 layout: single
 categories:
   - 最新动态
-  - 科研成果
 header:
   teaser: /assets/images/annual-convention-2025.jpg  # 你需要把论文截图放在这个路径下
 ---

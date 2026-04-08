@@ -4,9 +4,9 @@ main:
     url: /news/
   - title: "实验室简介"
     url: /labIntro/
-  - title: "实验室人员"
-    url: /people/
+  - title: "实验室研究方向"
+    url: /research-directions/
   - title: "科研成果"
     url: /research/
-  - title: "关于我们"
-    url: /about/
+  - title: "研究生招生"
+    url: /admissions/

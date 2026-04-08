@@ -4,13 +4,14 @@ date: 2026-04-01
 layout: single
 categories:
   - 最新动态
-  - 科研成果
 header:
   teaser: /assets/images/congratulation-tianpei-2026-04-01.png  # 你需要把论文截图放在这个路径下
 ---
 
 恭喜张天培同学的论文被 **Infrared Physics and Technology** 录用！
+
 **论文：** Dual-Domain Perspective on Degradation-Aware Fusion: A VLM-Guided Robust Infrared and Visible Image Fusion Framework
+
 **Arxiv 预印本：** [https://arxiv.org/abs/2509.05000](https://arxiv.org/abs/2509.05000)
 
 <img src="/assets/images/congratulation-tianpei-2026-04-01.png" alt="描述" class="align-center">
