@@ -3,7 +3,7 @@ main:
   - title: "最新动态"
     url: /news/
   - title: "实验室简介"
-    url: /labIntro/
+    url: /libIntro/
   - title: "实验室研究方向"
     url: /research-directions/
   - title: "科研成果"
