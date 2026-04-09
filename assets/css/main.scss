@@ -8,11 +8,3 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-/* Widen site container without breaking sidebar/content layout */
-@media (min-width: 1024px) {
-  #main,
-  .masthead__inner-wrap,
-  .breadcrumbs {
-    max-width: 1600px;
-  }
-}
