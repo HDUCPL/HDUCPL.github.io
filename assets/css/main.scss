@@ -8,3 +8,8 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+/* Keep multiple spaces in research entries, e.g. '**·**  Title' */
+.research-spacing .page__content p {
+	white-space: pre-wrap;
+}
+
