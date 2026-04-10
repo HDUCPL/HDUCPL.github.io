@@ -30,6 +30,10 @@ author_profile: true
 <img src="/Lib_picture/张天培.png" alt="描述" class="align-center lab-photo">
 
 张天培
+研究方向:红外与可见光图像融合
+SBTI：JOKE-R
+哈吉米摸南北绿豆
+
 
 <img src="/Lib_picture/刘昊宇.jpg" alt="描述" class="align-center lab-photo">
 
@@ -38,6 +42,9 @@ author_profile: true
 <img src="/Lib_picture/危晓婕.jpg" alt="描述" class="align-center lab-photo">
 
 危晓婕
+研究方向:傅里叶叠层显微成像
+SBTI：LOVE-R
+比比拉布
 
 <img src="/Lib_picture/廖福.jpg" alt="描述" class="align-center lab-photo">
 
@@ -56,6 +63,7 @@ author_profile: true
 <img src="/Lib_picture/熊学锡.jpg" alt="描述" class="align-center lab-photo">
 
 熊学锡
+研究方向:高光谱图像目标检测
 SBTI：BOSS
 一个丧心病狂的高光谱目标检测识别与跟踪计算机视觉研究者，这张图片中的目标有0.01%的可能不是熊学锡。
 
@@ -63,6 +71,8 @@ SBTI：BOSS
 <img src="/Lib_picture/邵坚钢.jpg" alt="描述" class="align-center lab-photo">
 
 邵坚钢
+研究方向:光谱成像
+SBTI：SOLO
 
 <img src="/Lib_picture/石涣.jpg" alt="描述" class="align-center lab-photo">
 
@@ -71,6 +81,8 @@ SBTI：BOSS
 <img src="/Lib_picture/井雨馨.png" alt="描述" class="align-center lab-photo">
 
 井雨馨
+研究方向:红外小目标检测（两篇TOP持有者）
+SBTI：LOVE-R
 
 <img src="/Lib_picture/周宇豪.jpg" alt="描述" class="align-center lab-photo">
 
