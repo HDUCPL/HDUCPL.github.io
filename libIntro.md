@@ -26,33 +26,41 @@ author_profile: true
 
 崔光茫，博士，副教授，硕导，主要从事计算光学成像、智能图像处理、机器视觉检测、深度学习算法研究。主持国家自然科学基金项目、浙江省公益研究计划/探索项目、企事业单位横向委托项目等，发表SCI论文50余篇，授权发明专利20余项。担任中国光学工程学会计算成像专业委员会青年委员，获宁波市科学技术进步奖，昆山市双创人才计划支持。
 
-
 <img src="/Lib_picture/张天培.png" alt="描述" class="align-center lab-photo">
 
 张天培
 研究方向:红外与可见光图像融合
 SBTI：JOKE-R
-哈吉米摸南北绿豆
-
+哈吉米摸南北绿豆，实验室史上最强——六篇论文拥有者，健身界斜方肌之王，纯爱第一人，想唱就唱麦霸
 
 <img src="/Lib_picture/刘昊宇.jpg" alt="描述" class="align-center lab-photo">
 
 刘昊宇
+研究方向：深度学习图像去模糊
+SBTI：ZZZZ
+二次元20年深度用户，12,3456，咕咕嘎嘎
 
 <img src="/Lib_picture/危晓婕.jpg" alt="描述" class="align-center lab-photo">
 
 危晓婕
 研究方向:傅里叶叠层显微成像
 SBTI：LOVE-R
-比比拉布
+比比拉布，《知否》十级爱好者
 
 <img src="/Lib_picture/廖福.jpg" alt="描述" class="align-center lab-photo">
 
 廖福
+研究方向：散射成像
+SBTI：未知
+实验室最神秘的人之一
 
 <img src="/Lib_picture/郑钰辰.jpg" alt="描述" class="align-center lab-photo">
 
 郑钰辰
+研究方向：小目标检测
+SBTI：IMSB/SEXY/ATM-er
+（次要研究方向：母猪产后护理）
+义乌小商品批发市场幕后老总
 
 <img src="/Lib_picture/向日葵.gif" alt="描述" class="align-center lab-photo">
 
@@ -65,24 +73,36 @@ SBTI：LOVE-R
 熊学锡
 研究方向:高光谱图像目标检测
 SBTI：BOSS
-一个丧心病狂的高光谱目标检测识别与跟踪计算机视觉研究者，这张图片中的目标有0.01%的可能不是熊学锡。
+一个丧心病狂的高光谱目标检测识别与跟踪计算机视觉研究者，这张图片中的目标有0.01%的可能不是熊学锡。手机摔摔回收者，内审90分拥有者，脚本小程序手搓王者
 
+
+<img src="/Lib_picture/刘展宏2.jpg" alt="描述" class="align-center lab-photo">
+
+柳展宏
+研究方向：散射成像？
+SBTI：MALO
+绍兴实验室首席牛马，三人雀魂狗运王，展宏优选创始人，有氧做到无氧窒息者，沉默晒干者
 
 <img src="/Lib_picture/邵坚钢.jpg" alt="描述" class="align-center lab-photo">
 
 邵坚钢
 研究方向:光谱成像
 SBTI：SOLO
+我的刀盾，杭电奥沙利文，杭电薛之谦，专利钉子户
 
 <img src="/Lib_picture/石涣.jpg" alt="描述" class="align-center lab-photo">
 
 石涣
+研究方向：傅里叶叠层显微成像
+SBTI：未知
+第五人格头号玩家
 
 <img src="/Lib_picture/井雨馨.png" alt="描述" class="align-center lab-photo">
 
 井雨馨
 研究方向:红外小目标检测（两篇TOP持有者）
 SBTI：LOVE-R
+实验室最强！！！Nature有力冲击者
 
 <img src="/Lib_picture/周宇豪.jpg" alt="描述" class="align-center lab-photo">
 
