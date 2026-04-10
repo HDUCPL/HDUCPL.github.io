@@ -51,8 +51,14 @@ author_profile: true
 
 郝月生
 研究方向:三维重建
-
 实验室著名植物大战僵尸高玩，放置一次可以对3*3范围内僵尸造成1800点伤害
+
+<img src="/Lib_picture/熊学锡.jpg" alt="描述" class="align-center lab-photo">
+
+熊学锡
+SBTI：BOSS
+一个丧心病狂的高光谱目标检测识别与跟踪计算机视觉研究者，这张图片中的目标有0.01%的可能不是熊学锡。
+
 
 <img src="/Lib_picture/邵坚钢.jpg" alt="描述" class="align-center lab-photo">
 
