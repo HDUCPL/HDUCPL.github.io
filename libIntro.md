@@ -31,7 +31,7 @@ author_profile: true
 张天培
 研究方向:红外与可见光图像融合
 SBTI：JOKE-R
-哈吉米摸南北绿豆，实验室史上最强——六篇论文拥有者，健身界斜方肌之王，纯爱第一人，想唱就唱麦霸
+如何呢，哈吉米摸南北绿豆，实验室史上最强——六篇论文拥有者，健身界斜方肌之王，纯爱第一人，想唱就唱麦霸
 
 <img src="/Lib_picture/刘昊宇.jpg" alt="描述" class="align-center lab-photo">
 
@@ -62,18 +62,26 @@ SBTI：IMSB/SEXY/ATM-er
 （次要研究方向：母猪产后护理）
 义乌小商品批发市场幕后老总
 
+<img src="/Lib_picture/崔伟泽.jpg" alt="描述" class="align-center lab-photo">
+
+崔伟泽
+研究方向：散射成像
+SBTI：LOVE-R
+又能怎，138学号真实拥有者，一千天原批，一千天崩批,实验室食物链低端人士，609信誉分大残选手，609林丹
+
 <img src="/Lib_picture/向日葵.gif" alt="描述" class="align-center lab-photo">
 
 郝月生
 研究方向:三维重建
-实验室著名植物大战僵尸高玩，放置一次可以对3*3范围内僵尸造成1800点伤害
+SBTI：SOLO
+实验室著名植物大战僵尸高玩，放置一次可以对3*3范围内僵尸造成1800点伤害，头像可以和豌豆射手融合，609李宗伟
 
 <img src="/Lib_picture/熊学锡.jpg" alt="描述" class="align-center lab-photo">
 
 熊学锡
 研究方向:高光谱图像目标检测
 SBTI：BOSS
-一个丧心病狂的高光谱目标检测识别与跟踪计算机视觉研究者，这张图片中的目标有0.01%的可能不是熊学锡。手机摔摔回收者，内审90分拥有者，脚本小程序手搓王者
+那么好，一个丧心病狂的高光谱目标检测识别与跟踪计算机视觉研究者，这张图片中的目标有0.01%的可能不是熊学锡。手机摔摔回收者，内审90分拥有者，脚本小程序手搓王者
 
 
 <img src="/Lib_picture/刘展宏2.jpg" alt="描述" class="align-center lab-photo">
