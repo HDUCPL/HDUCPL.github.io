@@ -54,15 +54,15 @@ redirect_from:
 
 --------------------------------------------------------------
 ### **2022:**
-**·**  Zhang Jitong, **Cui Guangmang**\\*, Zhao Jufeng, Chen Ying. [High-frequency attention residual GAN network for blind motion deblurring](REPLACE_ME)[J]. IEEE Access, 2022, 10: 81390-81405.
-**·**  Li Zihan, **Cui Guangmang**\\*, Zhao Jufeng, Xiang Qinlei, He Bintao. [Joint strong edge and multi-stream adaptive fusion network for non-uniform image deblurring](REPLACE_ME)[J]. Journal of Visual Communication and Image Representation, 2022, 89: 103663.
-**·**  Zhu Junjie, **Zhao Jufeng**\\*, Yu Jiakai, Cui Guangmang. [Adaptive local sparse representation for compressive hyperspectral imaging](REPLACE_ME)[J]. Optics and Laser Technology, 2022, 156: 108467.
-**·**  Cao Chaowei, **Cui Guangmang**\\*, Zhao Jufeng, He Bintao, Zhy Liyao. [Scatter imaging with super-memory effect based on adaptive β-parameter hybrid input-output algorithm-assisted estimation of point spread function](REPLACE_ME)[J]. Journal of Optics2022, 24 :105603
-**·**  Wu Xiaohui ,  **Zhao Jufeng**\\*, Cui Guangmang, Mao Haifeng. [A lensless LED matrix-based ptychographic microscopy imaging method using loss correction and adaptive step size](REPLACE_ME)[J]. Optics and Lasers in Engineering, 2022, 152:106980.
-**·**  Yu Jiakai, **Zhao Jufeng**\\*, Zhu Junjie, Cui Guangmang. [High Spectral Resolution Imaging Based on Dual-Camera System With Filter Wheel](REPLACE_ME)[J]. IEEE Access, 2022, 10: 40119-40129.
-**·**  Lin Binbin, **Zhao Jufeng**\\*, Cui Guangmang, Zhang Peiwei, Wu Xiaohui. [Efficient multiplexed illumination and imaging approach for Fourier ptychographic microscopy](REPLACE_ME)[J]. JOSA A, 2022, 39(5): 883-896.
-**·**  Zhang Peiwei, **Zhao Jufeng**\\*, Lin Binbin, Wu Xiaohui, Cui Guangmang. [Hyperspectral microscopy imaging based on Fourier ptychographic microscopy](REPLACE_ME)[J]. Journal of Optics, 2022, 24(5): 055301.
-**·**  He Bintao,**Cui Guangmang**,Cao Chaowei,Zhao Jufeng. [Imaging Through Scattering Layers by Exploiting the Sum of Gradient Amplitude Guided Phase Retrieval](REPLACE_ME)[J].Optics Communications,2022,514:128134.
+**·**  Zhang Jitong, **Cui Guangmang**\\*, Zhao Jufeng, Chen Ying. [High-frequency attention residual GAN network for blind motion deblurring](High-frequency attention residual GAN network for blind motion deblurring)[J]. IEEE Access, 2022, 10: 81390-81405.
+**·**  Li Zihan, **Cui Guangmang**\\*, Zhao Jufeng, Xiang Qinlei, He Bintao. [Joint strong edge and multi-stream adaptive fusion network for non-uniform image deblurring](https://www.sciencedirect.com/science/article/pii/S1047320322001833)[J]. Journal of Visual Communication and Image Representation, 2022, 89: 103663.
+**·**  Zhu Junjie, **Zhao Jufeng**\\*, Yu Jiakai, Cui Guangmang. [Adaptive local sparse representation for compressive hyperspectral imaging](https://www.sciencedirect.com/science/article/pii/S0030399222006235)[J]. Optics and Laser Technology, 2022, 156: 108467.
+**·**  Cao Chaowei, **Cui Guangmang**\\*, Zhao Jufeng, He Bintao, Zhy Liyao. [Scatter imaging with super-memory effect based on adaptive β-parameter hybrid input-output algorithm-assisted estimation of point spread function](https://iopscience.iop.org/article/10.1088/2040-8986/ac71b2/meta)[J]. Journal of Optics2022, 24 :105603
+**·**  Wu Xiaohui ,  **Zhao Jufeng**\\*, Cui Guangmang, Mao Haifeng. [A lensless LED matrix-based ptychographic microscopy imaging method using loss correction and adaptive step size](https://www.sciencedirect.com/science/article/pii/S0143816622000355)[J]. Optics and Lasers in Engineering, 2022, 152:106980.
+**·**  Yu Jiakai, **Zhao Jufeng**\\*, Zhu Junjie, Cui Guangmang. [High Spectral Resolution Imaging Based on Dual-Camera System With Filter Wheel](https://ieeexplore.ieee.org/abstract/document/9756016)[J]. IEEE Access, 2022, 10: 40119-40129.
+**·**  Lin Binbin, **Zhao Jufeng**\\*, Cui Guangmang, Zhang Peiwei, Wu Xiaohui. [Efficient multiplexed illumination and imaging approach for Fourier ptychographic microscopy](https://opg.optica.org/josaa/fulltext.cfm?uri=josaa-39-5-883)[J]. JOSA A, 2022, 39(5): 883-896.
+**·**  Zhang Peiwei, **Zhao Jufeng**\\*, Lin Binbin, Wu Xiaohui, Cui Guangmang. [Hyperspectral microscopy imaging based on Fourier ptychographic microscopy](https://iopscience.iop.org/article/10.1088/2040-8986/ac57b3/meta)[J]. Journal of Optics, 2022, 24(5): 055301.
+**·**  He Bintao,**Cui Guangmang**,Cao Chaowei,Zhao Jufeng. [Imaging Through Scattering Layers by Exploiting the Sum of Gradient Amplitude Guided Phase Retrieval](https://www.sciencedirect.com/science/article/pii/S003040182200133X)[J].Optics Communications,2022,514:128134.
 --------------------------------------------------------------
 ### **2021:**
 **·**  Li Tong, **Zhao Jufeng**\\*,  et al. [Infrared imaging enhancement through local window‐based saliency extraction with spatial weight](REPLACE_ME)[J]. IET Image Processing, 2021, 15(12): 2910-2925.
