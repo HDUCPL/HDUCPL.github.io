@@ -2,7 +2,7 @@
 title: "实验室简介"
 date: 2026-01-01
 layout: single
-permalink: /libIntro/
+permalink: /labIntro/
 author_profile: true
 ---
 
@@ -67,7 +67,7 @@ SBTI：IMSB/SEXY/ATM-er
 崔伟泽
 研究方向：散射成像
 SBTI：LOVE-R
-又能怎，138学号真实拥有者，一千天原批，一千天崩批,实验室食物链最底端人士，609信誉分大残选手，609林丹，魔丸，沉默男神
+又能怎，138学号真实拥有者，一千天原崩双批，实验室食物链最底端人士，609信誉分大残选手，609林丹，魔丸，沉默男神
 
 <img src="/Lib_picture/向日葵.gif" alt="描述" class="align-center lab-photo">
 
@@ -84,7 +84,7 @@ SBTI：BOSS
 那么好，一个丧心病狂的高光谱目标检测识别与跟踪计算机视觉研究者，这张图片中的目标有0.01%的可能不是熊学锡。手机摔摔回收者，内审90分拥有者，脚本小程序手搓王者
 
 
-<img src="/Lib_picture/刘展宏2.jpg" alt="描述" class="align-center lab-photo">
+<img src="/Lib_picture/刘展宏3.jpg" alt="描述" class="align-center lab-photo">
 
 柳展宏
 研究方向：散射成像？
