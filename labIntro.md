@@ -124,7 +124,7 @@ SBTI：LOVE-R
 
 黄瑜成
 研究方向:图像去模糊&all-in-one 图像恢复
-SBTI：未知
+SBTI：DEAD
 实验室最强之二！！！诺奖有力冲击者
 
 <img src="/Lib_picture/周宇豪.jpg" alt="描述" class="align-center lab-photo">
