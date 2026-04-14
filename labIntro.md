@@ -29,15 +29,15 @@ author_profile: true
 
 以下个人简介为609全体成员集思广益所得
 
-<img src="/Lib_picture/张天培.png" alt="描述" class="align-center lab-photo">
-
+<img src="/Lib_picture/张天培植物版.gif" alt="描述" class="align-center lab-photo">
+<!-- 张天培.png -->
 张天培
 研究方向:红外与可见光图像融合
 SBTI：JOKE-R
 如何呢，哈吉米摸南北绿豆，实验室史上最强——六篇论文拥有者，健身界斜方肌之王，纯爱第一人，想唱就唱麦霸
 
-<img src="/Lib_picture/刘昊宇.jpg" alt="描述" class="align-center lab-photo">
-
+<img src="/Lib_picture/刘昊宇植物版.gif" alt="描述" class="align-center lab-photo">
+<!-- 刘昊宇.jpg -->
 刘昊宇
 研究方向：深度学习图像去模糊
 SBTI：ZZZZ
@@ -57,16 +57,16 @@ SBTI：LOVE-R
 SBTI：未知
 实验室最神秘的人之一
 
-<img src="/Lib_picture/郑钰辰.jpg" alt="描述" class="align-center lab-photo">
-
+<img src="/Lib_picture/郑钰辰植物版.gif" alt="描述" class="align-center lab-photo">
+<!--郑钰辰.jpg -->
 郑钰辰
 研究方向：小目标检测
 SBTI：IMSB/SEXY/ATM-er
 （次要研究方向：母猪产后护理）
 义乌小商品批发市场幕后老总
 
-<img src="/Lib_picture/崔伟泽.jpg" alt="描述" class="align-center lab-photo">
-
+<img src="/Lib_picture/崔伟泽植物版.gif" alt="描述" class="align-center lab-photo">
+<!-- 崔伟泽.jpg -->
 崔伟泽
 研究方向：散射成像
 SBTI：LOVE-R
@@ -89,6 +89,8 @@ SBTI：BOSS
 <img src="/Lib_picture/李达.png" alt="描述" class="align-center lab-photo">
 
 李达
+研究方向:视觉检测
+SBTI：未知
 
 <img src="/Lib_picture/刘展宏3.jpg" alt="描述" class="align-center lab-photo">
 
@@ -109,7 +111,7 @@ SBTI：SOLO
 石涣
 研究方向：傅里叶叠层显微成像
 SBTI：未知
-第五人格头号玩家
+第五人格头号玩家，牵制监管者半小时顶级高玩
 
 <img src="/Lib_picture/井雨馨.png" alt="描述" class="align-center lab-photo">
 
@@ -123,7 +125,7 @@ SBTI：LOVE-R
 黄瑜成
 研究方向:图像去模糊&all-in-one 图像恢复
 SBTI：未知
-实验室最强之二！！！Nature有力冲击者
+实验室最强之二！！！诺奖有力冲击者
 
 <img src="/Lib_picture/周宇豪.jpg" alt="描述" class="align-center lab-photo">
 
@@ -149,36 +151,12 @@ SBTI：未知
 
 王海莲
 
-
 <img src="/Lib_picture/莫建华.jpg" alt="描述" class="align-center lab-photo">
 
 莫建华
-
-
-**毕业生去向**
-
-刘洋	25年	南京市科学技术局
-王继晨	24年	海康威视
-项钦蕾	24年	浙农商数科
-叶晓杰	21年	华为
-毛海峰	21年	温州市文成县市场监督管理局
-
-<img src="/Lib_picture/刘展宏1.jpg" alt="描述" class="align-center lab-photo">
-
-刘展宏1
-
-<img src="/Lib_picture/刘展宏2.jpg" alt="描述" class="align-center lab-photo">
-
-刘展宏2
-
-<img src="/Lib_picture/李达.png" alt="描述" class="align-center lab-photo">
-
-李达
-
 <img src="/Lib_picture/刘琰.jpg" alt="描述" class="align-center lab-photo">
 
 刘琰
-
 
 <img src="/Lib_picture/欧阳俊杰.jpg" alt="描述" class="align-center lab-photo">
 
@@ -188,10 +166,11 @@ SBTI：未知
 
 程龙
 
-<img src="/Lib_picture/郝月生.png" alt="描述" class="align-center lab-photo">
+**毕业生去向**
 
-郝月生
+刘洋	25年	南京市科学技术局
+王继晨	24年	海康威视
+项钦蕾	24年	浙农商数科
+叶晓杰	21年	华为
+毛海峰	21年	温州市文成县市场监督管理局
 
-<img src="/Lib_picture/黄瑜成.jpg" alt="描述" class="align-center lab-photo">
-
-黄瑜成
