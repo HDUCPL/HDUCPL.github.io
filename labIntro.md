@@ -86,6 +86,9 @@ SBTI：SOLO
 SBTI：BOSS
 那么好，一个丧心病狂的高光谱目标检测识别与跟踪计算机视觉研究者，这张图片中的目标有0.01%的可能不是熊学锡。手机摔摔回收者，内审90分拥有者，脚本小程序手搓王者
 
+<img src="/Lib_picture/李达.png" alt="描述" class="align-center lab-photo">
+
+李达
 
 <img src="/Lib_picture/刘展宏3.jpg" alt="描述" class="align-center lab-photo">
 
@@ -114,6 +117,13 @@ SBTI：未知
 研究方向:红外小目标检测（两篇TOP持有者）
 SBTI：LOVE-R
 实验室最强！！！Nature有力冲击者
+
+<img src="/Lib_picture/黄瑜成.jpg" alt="描述" class="align-center lab-photo">
+
+黄瑜成
+研究方向:图像去模糊&all-in-one 图像恢复
+SBTI：未知
+实验室最强之二！！！Nature有力冲击者
 
 <img src="/Lib_picture/周宇豪.jpg" alt="描述" class="align-center lab-photo">
 
@@ -152,3 +162,36 @@ SBTI：LOVE-R
 项钦蕾	24年	浙农商数科
 叶晓杰	21年	华为
 毛海峰	21年	温州市文成县市场监督管理局
+
+<img src="/Lib_picture/刘展宏1.jpg" alt="描述" class="align-center lab-photo">
+
+刘展宏1
+
+<img src="/Lib_picture/刘展宏2.jpg" alt="描述" class="align-center lab-photo">
+
+刘展宏2
+
+<img src="/Lib_picture/李达.png" alt="描述" class="align-center lab-photo">
+
+李达
+
+<img src="/Lib_picture/刘琰.jpg" alt="描述" class="align-center lab-photo">
+
+刘琰
+
+
+<img src="/Lib_picture/欧阳俊杰.jpg" alt="描述" class="align-center lab-photo">
+
+欧阳俊杰
+
+<img src="/Lib_picture/程龙.jpg" alt="描述" class="align-center lab-photo">
+
+程龙
+
+<img src="/Lib_picture/郝月生.png" alt="描述" class="align-center lab-photo">
+
+郝月生
+
+<img src="/Lib_picture/黄瑜成.jpg" alt="描述" class="align-center lab-photo">
+
+黄瑜成
