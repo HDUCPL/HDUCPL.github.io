@@ -127,44 +127,64 @@ SBTI：LOVE-R
 SBTI：DEAD
 实验室最强之二！！！诺奖有力冲击者
 
-<img src="/Lib_picture/周宇豪.jpg" alt="描述" class="align-center lab-photo">
-
-周宇豪
-
-<img src="/Lib_picture/周遥.jpg" alt="描述" class="align-center lab-photo">
-
-周遥
-
-<img src="/Lib_picture/张英杰.jpg" alt="描述" class="align-center lab-photo">
-
-张英杰
-
-<img src="/Lib_picture/江鸿翔.jpg" alt="描述" class="align-center lab-photo">
-
-江鸿翔
-
-<img src="/Lib_picture/汪俊含.jpg" alt="描述" class="align-center lab-photo">
-
-汪俊含
-
-<img src="/Lib_picture/王海莲.jpg" alt="描述" class="align-center lab-photo">
-
-王海莲
-
-<img src="/Lib_picture/莫建华.jpg" alt="描述" class="align-center lab-photo">
-
-莫建华
 <img src="/Lib_picture/刘琰.jpg" alt="描述" class="align-center lab-photo">
 
 刘琰
+研究方向:
 
 <img src="/Lib_picture/欧阳俊杰.jpg" alt="描述" class="align-center lab-photo">
 
 欧阳俊杰
+研究方向:
+
+<img src="/Lib_picture/周宇豪.jpg" alt="描述" class="align-center lab-photo">
+
+周宇豪
+研究方向:跨模态转译
+
+<img src="/Lib_picture/周遥.jpg" alt="描述" class="align-center lab-photo">
+
+周遥
+研究方向:图像匹配
+
+<img src="/Lib_picture/张英杰.jpg" alt="描述" class="align-center lab-photo">
+
+张英杰
+研究方向:不均匀雾图复原与增强
+
+<img src="/Lib_picture/江鸿翔.jpg" alt="描述" class="align-center lab-photo">
+
+江鸿翔
+研究方向:点云与图像配准
+
+<img src="/Lib_picture/汪俊含.jpg" alt="描述" class="align-center lab-photo">
+
+汪俊含
+研究方向:一体化天气退化修复
+
+<img src="/Lib_picture/王海莲.jpg" alt="描述" class="align-center lab-photo">
+
+王海莲
+研究方向:目标跟踪
+
+<img src="/Lib_picture/莫建华.jpg" alt="描述" class="align-center lab-photo">
+
+莫建华
+研究方向:散射成像
 
 <img src="/Lib_picture/程龙.jpg" alt="描述" class="align-center lab-photo">
 
 程龙
+研究方向:傅里叶叠层显微成像
+
+王嘉琪的图片
+王嘉琪
+研究方向:图像去雾
+
+
+赵烨成的图片
+赵烨成
+研究方向:3DGS
 
 **毕业生去向**
 
