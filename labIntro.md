@@ -150,6 +150,7 @@ SBTI：DEAD
 <img src="/Lib_picture/张英杰.jpg" alt="描述" class="align-center lab-photo">
 
 张英杰
+曾经的idol
 研究方向:不均匀雾图复原与增强
 
 <img src="/Lib_picture/江鸿翔.jpg" alt="描述" class="align-center lab-photo">
@@ -165,6 +166,7 @@ SBTI：DEAD
 <img src="/Lib_picture/王海莲.jpg" alt="描述" class="align-center lab-photo">
 
 王海莲
+王姐好
 研究方向:目标跟踪
 
 <img src="/Lib_picture/莫建华.jpg" alt="描述" class="align-center lab-photo">
@@ -184,6 +186,7 @@ SBTI：DEAD
 
 赵烨成的图片
 赵烨成
+杰宝idol的忠实粉丝
 研究方向:3DGS
 
 **毕业生去向**
