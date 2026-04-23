@@ -14,6 +14,9 @@ author_profile: true
 	}
 </style>
 
+实验室目前包括两位副教授，一名博士后以及三个年级二十余位硕士生。主要进行光电成像、智能图像处理、计算光学成像以及机器视觉算法方向的研究。
+
+
 ## 实验室PI
 
 <img src="/Lib_picture/zjf.jpg" alt="描述" class="align-center lab-photo">
