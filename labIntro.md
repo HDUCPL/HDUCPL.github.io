@@ -14,6 +14,8 @@ author_profile: true
 	}
 </style>
 
+## 实验室PI
+
 <img src="/Lib_picture/zjf.jpg" alt="描述" class="align-center lab-photo">
 
 赵巨峰
@@ -27,6 +29,7 @@ author_profile: true
 崔光茫，博士，副教授，硕导，主要从事计算光学成像、智能图像处理、机器视觉检测、深度学习算法研究。主持国家自然科学基金项目、浙江省公益研究计划/探索项目、企事业单位横向委托项目等，发表SCI论文50余篇，授权发明专利20余项。担任中国光学工程学会计算成像专业委员会青年委员，获宁波市科学技术进步奖，昆山市双创人才计划支持。
 
 
+## 研究生
 以下个人简介为609全体成员集思广益所得
 
 <img src="/Lib_picture/张天培植物版.gif" alt="描述" class="align-center lab-photo">
@@ -189,7 +192,7 @@ SBTI：DEAD
 杰宝idol的忠实粉丝
 研究方向:3DGS
 
-**毕业生去向**
+##毕业生去向
 
 刘洋	25年	南京市科学技术局
 王继晨	24年	海康威视
