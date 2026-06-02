@@ -16,5 +16,5 @@ PI：
 电子学院 崔光茫 cuigm@hdu.edu.cn
 
 博士后：
-电子学院 华玮平 huaweiping0@gmail.com
+电子学院 华玮平 weiping.hua@hdu.edu.cn
 
