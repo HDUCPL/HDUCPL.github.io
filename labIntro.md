@@ -10,8 +10,8 @@ author_profile: true
 
 <style>
 	.lab-photo {
-		width: 500px;
-		height: 600px;
+		width: 250px;
+		height: 300px;
 		object-fit: cover;
 	}
 </style>
@@ -189,12 +189,12 @@ SBTI：DEAD
 程龙
 研究方向:傅里叶叠层显微成像
 
-王嘉琪的图片
+<img src="/Lib_picture/王嘉琪.jpg" alt="描述" class="align-center lab-photo">
 王嘉琪
 研究方向:图像去雾
 
 
-赵烨成的图片
+<img src="/Lib_picture/赵烨成.jpg" alt="描述" class="align-center lab-photo">
 赵烨成
 杰宝idol的忠实粉丝
 研究方向:3DGS
