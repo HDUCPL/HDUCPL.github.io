@@ -5,7 +5,7 @@ layout: single
 categories:
   - 最新动态
 header:
-  teaser: /assets/images/congratulation-liuzhanhong-2026-6-17.png  # 你需要把论文截图放在这个路径下
+  teaser: /assets/images/congratulation-liuzhanhong-2026-6-17.jpg  # 你需要把论文截图放在这个路径下
 ---
 
 恭喜柳展宏同学的论文被 **Applied Optics** 录用！
@@ -16,4 +16,4 @@ header:
 
 **论文链接：** [https://opg.optica.org/ao/fulltext.cfm?uri=ao-65-20-6850](https://opg.optica.org/ao/fulltext.cfm?uri=ao-65-20-6850)
 
-<img src="/assets/images/congratulation-liuzhanhong-2026-6-17.png" alt="描述" class="align-center">
+<img src="/assets/images/congratulation-liuzhanhong-2026-6-17.jpg" alt="描述" class="align-center">
