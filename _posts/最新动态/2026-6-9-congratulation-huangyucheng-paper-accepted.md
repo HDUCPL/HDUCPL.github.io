@@ -14,4 +14,4 @@ header:
 
 **论文链接：** [https://www.sciencedirect.com/science/article/pii/S0031320326012161](https://www.sciencedirect.com/science/article/pii/S0031320326012161)
 
-<img src="assets/images/Congratulation_Huang Yucheng-2026-6-9.png" alt="描述" class="align-center">
+<img src="/assets/images/Congratulation_Huang Yucheng-2026-6-9.png" alt="描述" class="align-center">
