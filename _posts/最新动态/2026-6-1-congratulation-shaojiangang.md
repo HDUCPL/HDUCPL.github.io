@@ -11,6 +11,7 @@ header:
 恭喜邵坚钢同学的论文被 **光子学报** 录用！
 <!-- more -->
 
+
 **论文：** 基于多谱段-偏振信息与物理约束的材质识别
 
 **论文链接：** [https://www.photon.ac.cn/thesisDetails#10.3788/gzxb20265508.0830003&lang=zh](https://www.photon.ac.cn/thesisDetails#10.3788/gzxb20265508.0830003&lang=zh)
