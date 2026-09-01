@@ -9,6 +9,7 @@ header:
 ---
 
 恭喜黄瑜成同学的论文被 **Pattern Recognition** 录用！
+<!-- more -->
 
 **论文：** MDPL: Multi-Scale Degradation-Aware Prior Learning for Image Deblurring via Momentum Contrast and Blur-Adaptive Relational Fusion
 
