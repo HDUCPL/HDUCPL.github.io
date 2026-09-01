@@ -5,7 +5,7 @@ layout: single
 categories:
   - 最新动态
 header:
-  teaser: /assets/images/congratulation-Huang Yucheng-2026-6-9.png  # 你需要把论文截图放在这个路径下
+  teaser: assets/images/Congratulation_Huang Yucheng-2026-6-9.png  # 你需要把论文截图放在这个路径下
 ---
 
 恭喜黄瑜成同学的论文被 **Pattern Recognition** 录用！
@@ -14,4 +14,4 @@ header:
 
 **论文链接：** [https://www.sciencedirect.com/science/article/pii/S0031320326012161](https://www.sciencedirect.com/science/article/pii/S0031320326012161)
 
-<img src="/assets/images/congratulation-Huang Yucheng-2026-6-9.png" alt="描述" class="align-center">
+<img src="assets/images/Congratulation_Huang Yucheng-2026-6-9.png" alt="描述" class="align-center">
