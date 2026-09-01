@@ -5,7 +5,7 @@ layout: single
 categories:
   - 最新动态
 header:
-  teaser: /assets/images/congratulation-wengyu-2025-12-29.png  # 你需要把论文截图放在这个路径下
+  teaser: /assets/images/congratulation-Huang Yucheng-2026-6-9.png  # 你需要把论文截图放在这个路径下
 ---
 
 恭喜黄瑜成同学的论文被 **Pattern Recognition** 录用！
