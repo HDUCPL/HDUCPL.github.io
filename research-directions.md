@@ -12,7 +12,7 @@ author_profile: true
 ## 光谱成像与光谱目标检测
 
 ## 叠层成像/远距离叠层宏观成像
-<video src="/research_picture/FPM_video.mp4" controls width="600" alt="描述" class="align-center">
+
 <img src="/research_picture/FPM.png" alt="描述" class="align-center">
 
 ## MRI图像分割与目标检测(罕见病灶的分割)
