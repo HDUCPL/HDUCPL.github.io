@@ -185,7 +185,7 @@ SBTI：DEAD
 莫建华
 研究方向:散射成像
 
-<img src="/Lib_picture/程龙.jpg" alt="描述" class="align-center lab-photo">
+<img src="/Lib_picture/程龙遐蝶版.gif" alt="描述" class="align-center lab-photo">
 
 程龙
 研究方向:傅里叶叠层显微成像
