@@ -12,6 +12,8 @@ author_profile: true
 
 ## 光谱成像与光谱目标检测
 
+<img src="/research_picture/spectrum.png" alt="描述" class="align-center">
+
 ## 叠层成像/远距离叠层宏观成像
 
 <img src="/research_picture/FPM.png" alt="描述" class="align-center">
