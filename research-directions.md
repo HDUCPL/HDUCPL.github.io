@@ -18,8 +18,11 @@ author_profile: true
 
 ## MRI图像分割与目标检测(罕见病灶的分割)
 
+<img src="/research_picture/med.png" alt="描述" class="align-center">
+
 ## 散射场景重建
 
+<img src="/research_picture/散射.png" alt="描述" class="align-center">
 <img src="/research_picture/haze.png" alt="描述" class="align-center">
 
 ## 3D高斯重建/点云配准
@@ -35,6 +38,8 @@ author_profile: true
 <img src="/research_picture/aioir.png" alt="描述" class="align-center">
 
 ## 红外可见光融合
+
+<img src="/research_picture/visibal_light.png" alt="描述" class="align-center">
 
 ## 跨模态特征匹配
 
