@@ -12,40 +12,40 @@ author_profile: true
 
 ## 光谱成像与光谱目标检测
 
-<img src="/research_picture/spectrum.png" alt="描述" class="align-center">
+<img src="/research_picture/spectrum.png" alt="网络差没加载出来" class="align-center">
 
 ## 叠层成像/远距离叠层宏观成像
 
-<img src="/research_picture/FPM.png" alt="描述" class="align-center">
+<img src="/research_picture/FPM.png" alt="网络差没加载出来" class="align-center">
 
 ## MRI图像分割与目标检测(罕见病灶的分割)
 
-<img src="/research_picture/med.png" alt="描述" class="align-center">
+<img src="/research_picture/med.png" alt="网络差没加载出来" class="align-center">
 
 ## 散射场景重建
 
-<img src="/research_picture/散射.png" alt="描述" class="align-center">
-<img src="/research_picture/haze.png" alt="描述" class="align-center">
+<img src="/research_picture/散射.png" alt="网络差没加载出来" class="align-center">
+<img src="/research_picture/haze.png" alt="网络差没加载出来" class="align-center">
 
 ## 3D高斯重建/点云配准
 
-<img src="/research_picture/point_cloud1.png" alt="描述" class="align-center">
-<img src="/research_picture/point_cloud2.png" alt="描述" class="align-center">
+<img src="/research_picture/point_cloud1.png" alt="网络差没加载出来" class="align-center">
+<img src="/research_picture/point_cloud2.png" alt="网络差没加载出来" class="align-center">
 
 ## 多模态机器视觉
 
 ## （一体化）图像清晰复原
 
-<img src="/research_picture/deblur.png" alt="描述" class="align-center">
-<img src="/research_picture/aioir.png" alt="描述" class="align-center">
+<img src="/research_picture/deblur.png" alt="网络差没加载出来" class="align-center">
+<img src="/research_picture/aioir.png" alt="网络差没加载出来" class="align-center">
 
 ## 红外可见光融合
 
-<img src="/research_picture/visibal_light.png" alt="描述" class="align-center">
+<img src="/research_picture/visibal_light.png" alt="网络差没加载出来" class="align-center">
 
 ## 跨模态特征匹配
 
 ## 目标检测
 
-<img src="/research_picture/small_target.png" alt="描述" class="align-center">
+<img src="/research_picture/small_target.png" alt="网络差没加载出来" class="align-center">
 
