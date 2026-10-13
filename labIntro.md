@@ -168,9 +168,10 @@ SBTI：DEAD
 江鸿翔
 研究方向:点云与图像配准
 
-<img src="/Lib_picture/汪俊含.jpg" alt="描述" class="align-center lab-photo">
+<img src="/Lib_picture/汪俊含耄耋版.gif" alt="描述" class="align-center lab-photo">
 
 汪俊含
+苦难陈述者
 研究方向:一体化天气退化修复
 
 <img src="/Lib_picture/王海莲.jpg" alt="描述" class="align-center lab-photo">
