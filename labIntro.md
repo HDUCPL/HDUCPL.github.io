@@ -171,7 +171,7 @@ SBTI：DEAD
 <img src="/Lib_picture/汪俊含耄耋版.gif" alt="描述" class="align-center lab-photo">
 
 汪俊含
-苦难陈述者
+苦难陈述者,火锅爽吃者，下班积极者，灵光乍现者
 研究方向:一体化天气退化修复
 
 <img src="/Lib_picture/王海莲.jpg" alt="描述" class="align-center lab-photo">
