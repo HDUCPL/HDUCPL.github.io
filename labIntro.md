@@ -358,6 +358,14 @@ author_profile: true
 	</div>
 </details>
 
+<details class="member-card">
+	<summary><span class="member-name">徐颖馨</span><span class="member-meta">3D高斯</span></summary>
+	<div class="member-body">
+		<img src="/Lib_picture/徐颖馨.jpg" alt="徐颖馨" class="align-center lab-photo">
+		<p>财运追求者，麻将狂热者，KTV有氧者</p>
+	</div>
+</details>
+
 ## 毕业生去向
 
 刘洋	25年	南京市科学技术局
