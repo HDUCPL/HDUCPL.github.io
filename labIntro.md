@@ -298,6 +298,7 @@ SBTI：DEAD
 
 <img src="/Lib_picture/徐晨赫.jpg" alt="描述" class="align-center lab-photo">
 徐晨赫
+这个人很懒，什么都没留下
 研究方向：散射场景重现/扩散模型
 
 ## 毕业生去向
