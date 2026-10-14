@@ -90,7 +90,7 @@ author_profile: true
 
 <p class="toolbar"><button type="button" id="toggleAll">展开全部</button></p>
 
-<details class="topic-card" open>
+<details class="topic-card">
 	<summary>光谱成像与光谱目标检测</summary>
 	<div class="topic-body">
 		<img src="/research_picture/spectrum.png" alt="网络差没加载出来">
@@ -130,7 +130,7 @@ author_profile: true
 <details class="topic-card">
 	<summary>多模态机器视觉</summary>
 	<div class="topic-body">
-		<p class="topic-note">示意图整理中</p>
+		<p class="topic-note">研究中</p>
 	</div>
 </details>
 
@@ -152,7 +152,7 @@ author_profile: true
 <details class="topic-card">
 	<summary>跨模态特征匹配</summary>
 	<div class="topic-body">
-		<p class="topic-note">示意图整理中</p>
+		<p class="topic-note">研究中</p>
 	</div>
 </details>
 
