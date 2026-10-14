@@ -200,6 +200,11 @@ SBTI：DEAD
 杰宝idol的忠实粉丝
 研究方向:3DGS
 
+<img src="/Lib_picture/徐晨赫.jpg" alt="描述" class="align-center lab-photo">
+徐晨赫
+研究方向：散射场景重现/扩散模型
+
+
 ## 毕业生去向
 
 刘洋	25年	南京市科学技术局
