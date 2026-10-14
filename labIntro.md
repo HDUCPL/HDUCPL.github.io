@@ -138,28 +138,28 @@ author_profile: true
 以下个人简介为609全体成员集思广益所得（点击姓名展开）
 
 <details class="member-card">
-	<summary><span class="member-name">张天培</span><span class="member-meta">红外与可见光图像融合 · SBTI: JOKE-R</span></summary>
+	<summary><span class="member-name">张天培</span><span class="member-meta">红外与可见光图像融合</span></summary>
 	<div class="member-body">
 		<!-- 张天培.png -->
 		<img src="/Lib_picture/张天培植物版.gif" alt="张天培" class="align-center lab-photo">
-		<p>实验室史上最强——六篇论文拥有者，健身界斜方肌之王，纯爱第一人，想唱就唱麦霸</p>
+		<p>SBTI: JOKE-R，实验室史上最强——六篇论文拥有者，健身界斜方肌之王，纯爱第一人，想唱就唱麦霸</p>
 	</div>
 </details>
 
 <details class="member-card">
-	<summary><span class="member-name">刘昊宇</span><span class="member-meta">深度学习图像去模糊 · SBTI: ZZZZ</span></summary>
+	<summary><span class="member-name">刘昊宇</span><span class="member-meta">深度学习图像去模糊</span></summary>
 	<div class="member-body">
 		<!-- 刘昊宇.jpg -->
 		<img src="/Lib_picture/刘昊宇植物版.gif" alt="刘昊宇" class="align-center lab-photo">
-		<p>二次元20年深度用户，12,3456，咕咕嘎嘎</p>
+		<p>SBTI: ZZZZ，二次元20年深度用户，12,3456，咕咕嘎嘎</p>
 	</div>
 </details>
 
 <details class="member-card">
-	<summary><span class="member-name">危晓婕</span><span class="member-meta">傅里叶叠层显微成像 · SBTI: LOVE-R</span></summary>
+	<summary><span class="member-name">危晓婕</span><span class="member-meta">傅里叶叠层显微成像</span></summary>
 	<div class="member-body">
 		<img src="/Lib_picture/危晓婕.jpg" alt="危晓婕" class="align-center lab-photo">
-		<p>比比拉布，《知否》十级爱好者</p>
+		<p>SBTI: LOVE-R，比比拉布，《知否》十级爱好者</p>
 	</div>
 </details>
 
@@ -172,36 +172,36 @@ author_profile: true
 </details>
 
 <details class="member-card">
-	<summary><span class="member-name">郑钰辰</span><span class="member-meta">小目标检测 · SBTI: IMSB/SEXY/ATM-er</span></summary>
+	<summary><span class="member-name">郑钰辰</span><span class="member-meta">小目标检测</span></summary>
 	<div class="member-body">
 		<!-- 郑钰辰.jpg -->
 		<img src="/Lib_picture/郑钰辰植物版.gif" alt="郑钰辰" class="align-center lab-photo">
-		<p>义乌小商品批发市场幕后老总<br>（次要研究方向：母猪产后护理）</p>
+		<p>SBTI: IMSB/SEXY/ATM-er，义乌小商品批发市场幕后老总<br>（次要研究方向：母猪产后护理）</p>
 	</div>
 </details>
 
 <details class="member-card">
-	<summary><span class="member-name">崔伟泽</span><span class="member-meta">散射成像 · SBTI: LOVE-R</span></summary>
+	<summary><span class="member-name">崔伟泽</span><span class="member-meta">散射成像</span></summary>
 	<div class="member-body">
 		<!-- 崔伟泽.jpg -->
 		<img src="/Lib_picture/崔伟泽植物版.gif" alt="崔伟泽" class="align-center lab-photo">
-		<p>又能怎，138学号真实拥有者，一千天原崩双批，实验室食物链最底端人士，609信誉分大残选手，609林丹，魔丸，沉默男神</p>
+		<p>SBTI: LOVE-R，又能怎，138学号真实拥有者，一千天原崩双批，实验室食物链最底端人士，609信誉分大残选手，609林丹，魔丸，沉默男神</p>
 	</div>
 </details>
 
 <details class="member-card">
-	<summary><span class="member-name">郝月生</span><span class="member-meta">三维重建 · SBTI: SOLO</span></summary>
+	<summary><span class="member-name">郝月生</span><span class="member-meta">三维重建</span></summary>
 	<div class="member-body">
 		<img src="/Lib_picture/向日葵.gif" alt="郝月生" class="align-center lab-photo">
-		<p>实验室著名植物大战僵尸高玩，放置一次可以对3*3范围内僵尸造成1800点伤害，头像可以和豌豆射手融合，609李宗伟</p>
+		<p>SBTI: SOLO，实验室著名植物大战僵尸高玩，放置一次可以对3*3范围内僵尸造成1800点伤害，头像可以和豌豆射手融合，609李宗伟</p>
 	</div>
 </details>
 
 <details class="member-card">
-	<summary><span class="member-name">熊学锡</span><span class="member-meta">高光谱图像目标检测 · SBTI: BOSS</span></summary>
+	<summary><span class="member-name">熊学锡</span><span class="member-meta">高光谱图像目标检测</span></summary>
 	<div class="member-body">
 		<img src="/Lib_picture/熊学锡.jpg" alt="熊学锡" class="align-center lab-photo">
-		<p>那么好，一个丧心病狂的高光谱目标检测识别与跟踪计算机视觉研究者，这张图片中的目标有0.01%的可能不是熊学锡。手机摔摔回收者，内审90分拥有者，脚本小程序手搓王者</p>
+		<p>SBTI: BOSS，那么好，一个丧心病狂的高光谱目标检测识别与跟踪计算机视觉研究者，这张图片中的目标有0.01%的可能不是熊学锡。手机摔摔回收者，内审90分拥有者，脚本小程序手搓王者</p>
 	</div>
 </details>
 
@@ -213,18 +213,18 @@ author_profile: true
 </details>
 
 <details class="member-card">
-	<summary><span class="member-name">柳展宏</span><span class="member-meta">散射成像？ · SBTI: MALO</span></summary>
+	<summary><span class="member-name">柳展宏</span><span class="member-meta">散射成像？</span></summary>
 	<div class="member-body">
 		<img src="/Lib_picture/刘展宏3.jpg" alt="柳展宏" class="align-center lab-photo">
-		<p>三人雀魂狗运王，展宏优选创始人，有氧做到无氧窒息者，沉默晒干者，609张继科</p>
+		<p>SBTI: MALO，三人雀魂狗运王，展宏优选创始人，有氧做到无氧窒息者，沉默晒干者，609张继科</p>
 	</div>
 </details>
 
 <details class="member-card">
-	<summary><span class="member-name">邵坚钢</span><span class="member-meta">光谱成像 · SBTI: SOLO</span></summary>
+	<summary><span class="member-name">邵坚钢</span><span class="member-meta">光谱成像</span></summary>
 	<div class="member-body">
 		<img src="/Lib_picture/邵坚钢.jpg" alt="邵坚钢" class="align-center lab-photo">
-		<p>我的刀盾，杭电奥沙利文，杭电薛之谦，专利钉子户</p>
+		<p>SBTI: SOLO，我的刀盾，杭电奥沙利文，杭电薛之谦，专利钉子户</p>
 	</div>
 </details>
 
@@ -237,18 +237,18 @@ author_profile: true
 </details>
 
 <details class="member-card">
-	<summary><span class="member-name">井雨馨</span><span class="member-meta">红外小目标检测（两篇TOP持有者） · SBTI: LOVE-R</span></summary>
+	<summary><span class="member-name">井雨馨</span><span class="member-meta">红外小目标检测（两篇TOP持有者）</span></summary>
 	<div class="member-body">
 		<img src="/Lib_picture/井雨馨.png" alt="井雨馨" class="align-center lab-photo">
-		<p>实验室最强！！！Nature有力冲击者</p>
+		<p>SBTI: LOVE-R，实验室最强！！！Nature有力冲击者</p>
 	</div>
 </details>
 
 <details class="member-card">
-	<summary><span class="member-name">黄瑜成</span><span class="member-meta">图像去模糊 & all-in-one 图像恢复 · SBTI: DEAD</span></summary>
+	<summary><span class="member-name">黄瑜成</span><span class="member-meta">图像去模糊 & all-in-one 图像恢复</span></summary>
 	<div class="member-body">
 		<img src="/Lib_picture/黄瑜成.jpg" alt="黄瑜成" class="align-center lab-photo">
-		<p>实验室最强之二！！！诺奖有力冲击者</p>
+		<p>SBTI: DEAD，实验室最强之二！！！诺奖有力冲击者</p>
 	</div>
 </details>
 
@@ -347,6 +347,14 @@ author_profile: true
 	<div class="member-body">
 		<img src="/Lib_picture/徐晨赫.jpg" alt="徐晨赫" class="align-center lab-photo">
 		<p>这个人很懒，什么都没留下</p>
+	</div>
+</details>
+
+<details class="member-card">
+	<summary><span class="member-name">王培宏</span><span class="member-meta">红外与可见光图像融合</span></summary>
+	<div class="member-body">
+		<img src="/Lib_picture/王培宏.jpg" alt="王培宏" class="align-center lab-photo">
+		<p>SBTI:JOKER-R</p>
 	</div>
 </details>
 
