@@ -366,6 +366,14 @@ author_profile: true
 	</div>
 </details>
 
+<details class="member-card">
+	<summary><span class="member-name">伍毅</span><span class="member-meta">MRI图像分割</span></summary>
+	<div class="member-body">
+		<img src="/Lib_picture/伍毅.jpg" alt="伍毅" class="align-center lab-photo">
+		<p>SBTI：DRUNK  609石宇奇 2825张信哲  头衔：绝航单三只打最强一队/海斗只玩丢子/海斗tp回城/ 鸣潮十连三金/湘菜坚定拥护者/史迪仔十年老粉/鹅鸭杀信誉分扫不出共享单车之人</p>
+	</div>
+</details>
+
 ## 毕业生去向
 
 刘洋	25年	南京市科学技术局
