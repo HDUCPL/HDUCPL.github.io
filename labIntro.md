@@ -300,7 +300,7 @@ author_profile: true
 	<div class="member-body">
 		<!-- 汪俊含.jpg -->
 		<img src="/Lib_picture/汪俊含耄耋版.gif" alt="汪俊含" class="align-center lab-photo">
-		<p>苦难陈述者，火锅爽吃者，下班积极者，灵光乍现者</p>
+		<p>苦难陈述者，火锅狂炫者，下班光速者</p>
 	</div>
 </details>
 
