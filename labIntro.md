@@ -391,7 +391,7 @@ author_profile: true
 </details>
 
 <details class="member-card">
-	<summary><span class="member-name">黄光宇</span><span class="member-meta">All-in-One图像修复</span></summary>
+	<summary><span class="member-name">黄光宇</span><span class="member-meta">一体化图像清晰化重建/遥感、自动驾驶场景拓展、3D目标检测</span></summary>
 	<div class="member-body">
 		<img src="/Lib_picture/黄光宇.jpg" alt="黄光宇" class="align-center lab-photo">
 		<p>人格已分屏，精神很稳定，阿巴阿巴阿巴~</p>
