@@ -378,7 +378,7 @@ author_profile: true
 	<summary><span class="member-name">虞梓健</span><span class="member-meta">多模态机器视觉 / 小样本学习 / VLM</span></summary>
 	<div class="member-body">
 		<img src="/Lib_picture/虞梓健.jpg" alt="虞梓健" class="align-center lab-photo">
-		<p>ENFJ , 双鱼座 </n>为世界上所有的美好而战！</p>
+		<p>ENFJ , 双鱼座 为世界上所有的美好而战！</p>
 	</div>
 </details>
 
