@@ -168,7 +168,7 @@ author_profile: true
 		var btn = document.getElementById('toggleAll');
 		var cards = document.querySelectorAll('.topic-card');
 		if (!btn || !cards.length) return;
-		var allOpen = true;                       // 首条默认展开，其余收起
+		var allOpen = false;                       // 首条默认展开，其余收起
 		btn.addEventListener('click', function () {
 			allOpen = !allOpen;
 			for (var i = 0; i < cards.length; i++) cards[i].open = allOpen;
