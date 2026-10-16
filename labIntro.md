@@ -398,6 +398,15 @@ author_profile: true
 	</div>
 </details>
 
+<details class="member-card">
+	<summary><span class="member-name">李铭轩</span><span class="member-meta">叠层成像/长距离叠层宏观成像</span></summary>
+	<div class="member-body">
+		<img src="/Lib_picture/李铭轩.jpg" alt="李铭轩" class="align-center lab-photo">
+		<p>609李梓嘉  暴雪的狗  最区长枪  激素圣跳水爱好者</p>
+	</div>
+</details>
+
+
 ## 毕业生去向
 
 刘洋	25年	南京市科学技术局
