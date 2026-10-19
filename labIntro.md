@@ -414,6 +414,14 @@ author_profile: true
 	</div>
 </details>
 
+<details class="member-card">
+	<summary><span class="member-name">张金益</span><span class="member-meta">光谱成像与光谱目标检测</span></summary>
+	<div class="member-body">
+		<img src="/Lib_picture/张金益.jpg" alt="张金益" class="align-center lab-photo">
+		<p></p>
+	</div>
+</details>
+
 
 ## 毕业生去向
 
