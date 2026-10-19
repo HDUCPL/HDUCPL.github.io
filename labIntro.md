@@ -406,6 +406,14 @@ author_profile: true
 	</div>
 </details>
 
+<details class="member-card">
+	<summary><span class="member-name">陈欣</span><span class="member-meta">伪装目标检测</span></summary>
+	<div class="member-body">
+		<img src="/Lib_picture/陈欣.jpg" alt="陈欣" class="align-center lab-photo">
+		<p>人类版Siri（问就是好的、收到、重启中）</p>
+	</div>
+</details>
+
 
 ## 毕业生去向
 
