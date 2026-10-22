@@ -426,7 +426,7 @@ author_profile: true
 	<summary><span class="member-name">陈佳诺</span><span class="member-meta">红外弱小目标检测</span></summary>
 	<div class="member-body">
 		<img src="/Lib_picture/陈佳诺.jpg" alt="陈佳诺" class="align-center lab-photo">
-		<p></p>
+		<p>实验室最牢之人</p>
 	</div>
 </details>
 
