@@ -422,6 +422,14 @@ author_profile: true
 	</div>
 </details>
 
+<details class="member-card">
+	<summary><span class="member-name">陈佳诺</span><span class="member-meta">红外弱小目标检测</span></summary>
+	<div class="member-body">
+		<img src="/Lib_picture/陈佳诺.jpg" alt="陈佳诺" class="align-center lab-photo">
+		<p></p>
+	</div>
+</details>
+
 
 ## 毕业生去向
 
