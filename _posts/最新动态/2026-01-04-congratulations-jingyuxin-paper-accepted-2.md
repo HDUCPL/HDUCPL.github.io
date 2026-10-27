@@ -1,14 +1,12 @@
 ---
 title: "恭喜井雨馨同学论文录用"
 date: 2026-01-04
-permalink: /news/congratulations-jingyuxin-paper-accepted/
+permalink: /news/congratulations-jingyuxin-paper-accepted-2/
 layout: single
 categories:
   - 最新动态
 header:
   teaser: /assets/images/congratulation-jingyuxin-2026-1-4.png  # 你需要把论文截图放在这个路径下
-redirect_from:
-  - /最新动态/congratulations-jingyuxin-paper-accepted/
 ---
 
 恭喜井雨馨同学的论文被 **Optics and Laser Technology** 录用！

@@ -1,14 +1,12 @@
 ---
 title: "恭喜张天培同学论文录用"
 date: 2025-10-30
-permalink: /news/congratulations-zhangtianpei-paper-accepted/
+permalink: /news/congratulations-zhangtianpei-paper-accepted-2/
 layout: single
 categories:
   - 最新动态
 header:
   teaser: /assets/images/congratulation-tianpei-2025-10-30.png  # 你需要把论文截图放在这个路径下
-redirect_from:
-  - /最新动态/congratulations-zhangtianpei-paper-accepted/
 ---
 
 恭喜张天培同学的论文被 **2025 IEEE International Conference on Multimedia and Expo (ICME)** 录用！
