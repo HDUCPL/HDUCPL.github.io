@@ -13,3 +13,33 @@ search: false
 	white-space: pre-wrap;
 }
 
+/* Homepage welcome & navigation entries */
+.home-welcome {
+	margin-top: 0;
+}
+.home-entries {
+	display: flex;
+	flex-direction: column;
+	gap: 0.7em;
+	margin: 1.2em 0 2em;
+}
+.home-entry {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 0.85em 1.2em;
+	border: 1px solid #dcdcdc;
+	border-radius: 6px;
+	text-decoration: none;
+	font-size: 1.1em;
+	transition: border-color 0.2s ease, background-color 0.2s ease;
+}
+.home-entry:hover {
+	border-color: #2a7ae2;
+	background-color: rgba(42, 122, 226, 0.06);
+	text-decoration: none;
+}
+.home-entry__arrow {
+	color: #2a7ae2;
+}
+
