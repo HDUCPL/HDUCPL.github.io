@@ -32,7 +32,7 @@ search: false
 	padding: 1em 1.4em;
 	border: 2px solid #2a7ae2;
 	border-radius: 6px;
-	background-color: #f5f9ff;
+	background-color: transparent;
 	font-weight: 700;
 	font-size: 1.1em;
 	text-decoration: none;
@@ -40,7 +40,7 @@ search: false
 }
 .home-entry:hover {
 	border-color: #1a5fb4;
-	background-color: #e3eeff;
+	background-color: transparent;
 	text-decoration: none;
 }
 .home-entry__arrow {
