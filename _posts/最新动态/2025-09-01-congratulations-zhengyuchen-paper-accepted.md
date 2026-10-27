@@ -1,11 +1,13 @@
 ---
 title: "恭喜郑钰辰同学论文录用"
-date: 2025-9-1
+date: 2025-09-01
 layout: single
 categories:
   - 最新动态
 header:
   teaser: /assets/images/congratulation-zyc-2025-9-1.jpg  # 你需要把论文截图放在这个路径下
+redirect_from:
+  - /最新动态/congratulations-zhengyuchen-paper-accepted/
 ---
 
 恭喜郑钰辰同学的论文被 **Computer Vision and Image Understanding** 录用！

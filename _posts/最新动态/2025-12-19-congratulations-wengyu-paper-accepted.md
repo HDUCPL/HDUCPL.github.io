@@ -6,6 +6,8 @@ categories:
   - 最新动态
 header:
   teaser: /assets/images/congratulation-wengyu-2025-12-19.png  # 你需要把论文截图放在这个路径下
+redirect_from:
+  - /最新动态/congratulations-wengyu-paper-accepted/
 ---
 
 恭喜翁雨同学的论文被 **2025 8thInternational Conference on Computer Information Science and Artificial Intelligence(CISAI 2025)** 录用！

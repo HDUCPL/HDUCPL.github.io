@@ -6,6 +6,8 @@ categories:
   - 最新动态
 header:
   teaser: /assets/images/annual-convention-2025.jpg  # 你需要把论文截图放在这个路径下
+redirect_from:
+  - /最新动态/annual-convention-2025/
 ---
 
 2025年年会成功举办！

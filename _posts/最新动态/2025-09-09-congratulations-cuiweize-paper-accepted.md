@@ -1,11 +1,13 @@
 ---
 title: "恭喜崔伟泽同学论文录用"
-date: 2025-9-9
+date: 2025-09-09
 layout: single
 categories:
   - 最新动态
 header:
   teaser: /assets/images/congratulation-cwz-2025-9-9.png  # 你需要把论文截图放在这个路径下
+redirect_from:
+  - /最新动态/congratulations-cuiweize-paper-accepted/
 ---
 
 恭喜崔伟泽同学的论文被 **Optics & Laser Technology** 录用！

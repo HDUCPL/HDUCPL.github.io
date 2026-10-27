@@ -1,11 +1,13 @@
 ---
 title: "恭喜张天培同学论文录用"
-date: 2025-12-8
+date: 2025-12-08
 layout: single
 categories:
   - 最新动态
 header:
   teaser: /assets/images/congratulation-tianpei-2025-12-8.png  # 你需要把论文截图放在这个路径下
+redirect_from:
+  - /最新动态/congratulations-zhangtianpei-paper-accepted/
 ---
 
 恭喜张天培同学的论文被 **Computer Vision and Image Understanding** 录用！

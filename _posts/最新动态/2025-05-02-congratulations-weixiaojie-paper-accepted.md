@@ -1,11 +1,13 @@
 ---
 title: "恭喜危晓婕同学论文录用"
-date: 2025-5-2
+date: 2025-05-02
 layout: single
 categories:
   - 最新动态
 header:
   teaser: /assets/images/congratulation-wxj-2025-5-2.png  # 你需要把论文截图放在这个路径下
+redirect_from:
+  - /最新动态/congratulations-weixiaojie-paper-accepted/
 ---
 
 恭喜危晓婕同学的论文被 **Journal of Optics** 录用！

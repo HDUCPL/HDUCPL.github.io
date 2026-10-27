@@ -6,6 +6,8 @@ categories:
   - 最新动态
 header:
   teaser: /assets/images/congratulation-liuzhanhong-2026-6-17.jpg  # 你需要把论文截图放在这个路径下
+redirect_from:
+  - /最新动态/congratulations-liuzhanhong-paper-accepted/
 ---
 
 恭喜柳展宏同学的论文被 **Applied Optics** 录用！

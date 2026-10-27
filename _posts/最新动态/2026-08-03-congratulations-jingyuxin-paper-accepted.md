@@ -6,6 +6,8 @@ categories:
   - 最新动态
 header:
   teaser: /assets/images/congratulation-jingyuxin-2026-8-3.png  # 你需要把论文截图放在这个路径下
+redirect_from:
+  - /最新动态/congratulations-jingyuxin-paper-accepted/
 ---
 
 恭喜井雨馨同学的论文被 **IEEE Transactions on Geoscience and Remote Sensing** 录用！

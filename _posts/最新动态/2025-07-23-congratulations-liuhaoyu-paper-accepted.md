@@ -1,11 +1,13 @@
 ---
 title: "恭喜刘昊宇同学论文录用"
-date: 2025-7-23
+date: 2025-07-23
 layout: single
 categories:
   - 最新动态
 header:
   teaser: /assets/images/congratulation-liuhaoyu-2025-7-23.png  # 你需要把论文截图放在这个路径下
+redirect_from:
+  - /最新动态/congratulations-liuhaoyu-paper-accepted/
 ---
 
 恭喜刘昊宇同学的论文被 **VISUALCOMPUTER** 录用！

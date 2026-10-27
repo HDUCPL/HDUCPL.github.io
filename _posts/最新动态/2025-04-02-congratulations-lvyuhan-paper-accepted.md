@@ -1,11 +1,13 @@
 ---
 title: "恭喜吕玉涵同学论文录用"
-date: 2025-4-2
+date: 2025-04-02
 layout: single
 categories:
   - 最新动态
 header:
   teaser: /assets/images/congratulation-lvyuhan-2025-4-2.png  # 你需要把论文截图放在这个路径下
+redirect_from:
+  - /最新动态/congratulations-lvyuhan-paper-accepted/
 ---
 
 恭喜吕玉涵同学的论文被 **Journal of the Optical Society of America A** 录用！

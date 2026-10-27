@@ -6,6 +6,8 @@ categories:
   - 最新动态
 header:
   teaser: /assets/images/autumn-outing-2026.jpg  # 你需要把论文截图放在这个路径下
+redirect_from:
+  - /最新动态/autumn-outing/
 ---
 
 2026宝石山秋游

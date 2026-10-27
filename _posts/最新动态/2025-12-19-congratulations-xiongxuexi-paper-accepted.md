@@ -6,6 +6,8 @@ categories:
   - 最新动态
 header:
   teaser: /assets/images/congratulation-xiongxuexi-2025-12-19.png  # 你需要把论文截图放在这个路径下
+redirect_from:
+  - /最新动态/congratulations-xiongxuexi-paper-accepted/
 ---
 
 恭喜熊学锡同学的论文被 **2025 8thInternational Conference on Computer Information Science and Artificial Intelligence(CISAI 2025)** 录用！

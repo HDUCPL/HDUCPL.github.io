@@ -6,6 +6,8 @@ categories:
   - 最新动态
 header:
   teaser: /assets/images/Congratulation_Huang Yucheng-2026-6-9.png  # 你需要把论文截图放在这个路径下
+redirect_from:
+  - /最新动态/congratulation-huangyucheng-paper-accepted/
 ---
 
 恭喜黄瑜成同学的论文被 **Pattern Recognition** 录用！

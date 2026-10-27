@@ -1,11 +1,13 @@
 ---
 title: "恭喜廖福同学论文录用"
-date: 2025-3-14
+date: 2025-03-14
 layout: single
 categories:
   - 最新动态
 header:
   teaser: /assets/images/congratulation-liaofu-2025-3-14.png  # 你需要把论文截图放在这个路径下
+redirect_from:
+  - /最新动态/congratulations-liaofu-paper-accepted/
 ---
 
 恭喜廖福同学的论文被 **Optics Communications** 录用！

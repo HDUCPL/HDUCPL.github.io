@@ -6,6 +6,8 @@ categories:
   - 最新动态
 header:
   teaser: /assets/images/congratulation-shaojiangang-2026-6-1.png  # 你需要把论文截图放在这个路径下
+redirect_from:
+  - /最新动态/congratulation-shaojiangang/
 ---
 
 恭喜邵坚钢同学的论文被 **光子学报** 录用！
