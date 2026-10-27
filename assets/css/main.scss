@@ -20,23 +20,27 @@ search: false
 .home-entries {
 	display: flex;
 	flex-direction: column;
-	gap: 0.7em;
+	gap: 0.8em;
 	margin: 1.2em 0 2em;
 }
 .home-entry {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
-	padding: 0.85em 1.2em;
-	border: 1px solid #dcdcdc;
+	width: 100%;
+	box-sizing: border-box;
+	padding: 1em 1.4em;
+	border: 2px solid #2a7ae2;
 	border-radius: 6px;
-	text-decoration: none;
+	background-color: #f5f9ff;
+	font-weight: 700;
 	font-size: 1.1em;
+	text-decoration: none;
 	transition: border-color 0.2s ease, background-color 0.2s ease;
 }
 .home-entry:hover {
-	border-color: #2a7ae2;
-	background-color: rgba(42, 122, 226, 0.06);
+	border-color: #1a5fb4;
+	background-color: #e3eeff;
 	text-decoration: none;
 }
 .home-entry__arrow {
