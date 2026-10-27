@@ -1,6 +1,7 @@
 ---
 title: "恭喜张天培同学论文录用"
 date: 2025-10-30
+permalink: /news/congratulations-zhangtianpei-paper-accepted/
 layout: single
 categories:
   - 最新动态

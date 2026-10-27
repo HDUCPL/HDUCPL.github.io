@@ -1,6 +1,7 @@
 ---
 title: "恭喜邵坚钢同学论文录用"
 date: 2026-06-01
+permalink: /news/congratulation-shaojiangang/
 layout: single
 categories:
   - 最新动态

@@ -1,6 +1,7 @@
 ---
 title: "恭喜翁雨同学论文录用"
 date: 2025-12-29
+permalink: /news/congratulations-wengyu-paper-accepted/
 layout: single
 categories:
   - 最新动态

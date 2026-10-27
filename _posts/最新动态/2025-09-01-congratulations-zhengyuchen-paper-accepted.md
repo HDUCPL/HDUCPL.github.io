@@ -1,6 +1,7 @@
 ---
 title: "恭喜郑钰辰同学论文录用"
 date: 2025-09-01
+permalink: /news/congratulations-zhengyuchen-paper-accepted/
 layout: single
 categories:
   - 最新动态

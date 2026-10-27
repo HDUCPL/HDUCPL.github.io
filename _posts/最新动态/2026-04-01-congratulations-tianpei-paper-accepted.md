@@ -1,6 +1,7 @@
 ---
 title: "恭喜张天培同学论文录用"
 date: 2026-04-01
+permalink: /news/congratulations-tianpei-paper-accepted/
 layout: single
 categories:
   - 最新动态

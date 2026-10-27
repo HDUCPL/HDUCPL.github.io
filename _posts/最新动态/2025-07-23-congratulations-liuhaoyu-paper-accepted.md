@@ -1,6 +1,7 @@
 ---
 title: "恭喜刘昊宇同学论文录用"
 date: 2025-07-23
+permalink: /news/congratulations-liuhaoyu-paper-accepted/
 layout: single
 categories:
   - 最新动态

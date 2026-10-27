@@ -1,6 +1,7 @@
 ---
 title: "恭喜熊学锡同学论文录用"
 date: 2025-12-19
+permalink: /news/congratulations-xiongxuexi-paper-accepted/
 layout: single
 categories:
   - 最新动态

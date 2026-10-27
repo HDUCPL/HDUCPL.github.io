@@ -1,6 +1,7 @@
 ---
 title: "恭喜吕玉涵同学论文录用"
 date: 2025-04-02
+permalink: /news/congratulations-lvyuhan-paper-accepted/
 layout: single
 categories:
   - 最新动态

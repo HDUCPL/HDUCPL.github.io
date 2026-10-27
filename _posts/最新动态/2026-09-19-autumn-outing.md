@@ -1,6 +1,7 @@
 ---
 title: "2026年宝石山秋游"
 date: 2026-09-19
+permalink: /news/autumn-outing/
 layout: single
 categories:
   - 最新动态

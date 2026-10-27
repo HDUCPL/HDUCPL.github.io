@@ -1,6 +1,7 @@
 ---
 title: "恭喜黄瑜成同学论文录用"
 date: 2026-06-09
+permalink: /news/congratulation-huangyucheng-paper-accepted/
 layout: single
 categories:
   - 最新动态

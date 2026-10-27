@@ -1,6 +1,7 @@
 ---
 title: "恭喜柳展宏同学论文录用"
 date: 2026-06-17
+permalink: /news/congratulations-liuzhanhong-paper-accepted/
 layout: single
 categories:
   - 最新动态

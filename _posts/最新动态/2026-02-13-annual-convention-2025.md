@@ -1,6 +1,7 @@
 ---
 title: "庆祝2025年年会举办"
 date: 2026-02-13
+permalink: /news/annual-convention-2025/
 layout: single
 categories:
   - 最新动态

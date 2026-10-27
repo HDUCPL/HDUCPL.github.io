@@ -1,6 +1,7 @@
 ---
 title: "恭喜井雨馨同学论文录用"
 date: 2026-01-10
+permalink: /news/congratulations-jingyuxin-paper-accepted/
 layout: single
 categories:
   - 最新动态

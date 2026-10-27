@@ -1,6 +1,7 @@
 ---
 title: "恭喜廖福同学论文录用"
 date: 2025-03-14
+permalink: /news/congratulations-liaofu-paper-accepted/
 layout: single
 categories:
   - 最新动态

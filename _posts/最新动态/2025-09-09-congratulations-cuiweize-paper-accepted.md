@@ -1,6 +1,7 @@
 ---
 title: "恭喜崔伟泽同学论文录用"
 date: 2025-09-09
+permalink: /news/congratulations-cuiweize-paper-accepted/
 layout: single
 categories:
   - 最新动态

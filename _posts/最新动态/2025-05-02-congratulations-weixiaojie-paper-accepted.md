@@ -1,6 +1,7 @@
 ---
 title: "恭喜危晓婕同学论文录用"
 date: 2025-05-02
+permalink: /news/congratulations-weixiaojie-paper-accepted/
 layout: single
 categories:
   - 最新动态
