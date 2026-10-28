@@ -128,7 +128,7 @@ author_profile: true
 
 ## 博士后
 
-<div class="pending-photo">图片审批中</div>
+<div class="pending-photo" id="hwp-photo" title="">图片审批中</div>
 
 华玮平
 这人很神秘
@@ -438,3 +438,28 @@ author_profile: true
 项钦蕾	24年	浙农商数科
 叶晓杰	21年	华为
 毛海峰	21年	温州市文成县市场监督管理局
+
+<script>
+(function () {
+  var el = document.getElementById("hwp-photo");
+  if (!el) return;
+  var original = el.innerHTML;
+  var clicks = 0, resetTimer = null, showTimer = null;
+  el.style.cursor = "pointer";
+  el.addEventListener("click", function () {
+    if (showTimer) return;
+    clicks++;
+    clearTimeout(resetTimer);
+    if (clicks >= 3) {
+      clicks = 0;
+      el.innerHTML = '<img src="{{ "/Lib_picture/hwp-easter.jpg" | relative_url }}" alt="华玮平" class="align-center lab-photo">';
+      showTimer = setTimeout(function () {
+        el.innerHTML = original;
+        showTimer = null;
+      }, 2500);
+    } else {
+      resetTimer = setTimeout(function () { clicks = 0; }, 3000);
+    }
+  });
+})();
+</script>
