@@ -91,16 +91,18 @@ search: false
 	background-color: #f0f0f0;
 }
 .news-item__body {
-	display: flex;
-	flex-direction: column;
-	gap: 0.15em;
 	min-width: 0;
+	overflow: hidden;
 }
 .news-item__date {
-	font-size: 0.82em;
+	display: block;
+	font-size: 0.78em;
+	line-height: 1.5;
 	color: #8a8a8a;
 }
 .news-item__title {
+	font-size: 0.92em;
+	line-height: 1.4;
 	font-weight: 600;
 	color: inherit;
 	overflow: hidden;
