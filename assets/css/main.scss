@@ -107,6 +107,16 @@ search: false
 	-webkit-line-clamp: 2;
 	-webkit-box-orient: vertical;
 }
+.news-col__more {
+	display: inline-block;
+	margin-top: 0.5em;
+	font-size: 0.85em;
+	color: #2a7ae2;
+	text-decoration: none;
+}
+.news-col__more:hover {
+	text-decoration: underline;
+}
 @media (max-width: 600px) {
 	.news-cols {
 		grid-template-columns: 1fr;

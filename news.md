@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "最新动态"
+hide_title: true
 permalink: /news/
 author_profile: true
 redirect_from:
