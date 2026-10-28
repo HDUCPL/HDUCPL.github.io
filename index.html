@@ -5,9 +5,41 @@ entries_layout: grid
 ---
 <h2 class="home-welcome">欢迎来到计算成像实验室</h2>
 
-<nav class="home-entries">
-  <a class="home-entry" href="{{ '/research-directions/' | relative_url }}">实验室研究方向<span class="home-entry__arrow">&rarr;</span></a>
-  <a class="home-entry" href="{{ '/labIntro/' | relative_url }}">实验室成员<span class="home-entry__arrow">&rarr;</span></a>
-  <a class="home-entry" href="{{ '/research/' | relative_url }}">最新成果<span class="home-entry__arrow">&rarr;</span></a>
-  <a class="home-entry" href="{{ '/admissions/' | relative_url }}">加入我们<span class="home-entry__arrow">&rarr;</span></a>
-</nav>
+<section class="home-section">
+  <h3 class="home-section__title">实验室研究方向</h3>
+  <div class="dir-slideshow" id="dir-slideshow">
+    <img class="dir-slide is-active" src="{{ '/research_picture/spectrum.png' | relative_url }}" alt="研究方向">
+    <img class="dir-slide" src="{{ '/research_picture/FPM.png' | relative_url }}" alt="研究方向">
+    <img class="dir-slide" src="{{ '/research_picture/med.png' | relative_url }}" alt="研究方向">
+    <img class="dir-slide" src="{{ '/research_picture/散射.png' | relative_url }}" alt="研究方向">
+    <img class="dir-slide" src="{{ '/research_picture/haze.png' | relative_url }}" alt="研究方向">
+    <img class="dir-slide" src="{{ '/research_picture/point_cloud1.png' | relative_url }}" alt="研究方向">
+    <img class="dir-slide" src="{{ '/research_picture/point_cloud2.png' | relative_url }}" alt="研究方向">
+    <img class="dir-slide" src="{{ '/research_picture/deblur.png' | relative_url }}" alt="研究方向">
+    <img class="dir-slide" src="{{ '/research_picture/aioir.png' | relative_url }}" alt="研究方向">
+    <img class="dir-slide" src="{{ '/research_picture/visibal_light.png' | relative_url }}" alt="研究方向">
+    <img class="dir-slide" src="{{ '/research_picture/small_target.png' | relative_url }}" alt="研究方向">
+  </div>
+  <a class="more-link" href="{{ '/research-directions/' | relative_url }}">了解更多&rarr;</a>
+</section>
+
+<section class="home-section">
+  <h3 class="home-section__title">实验室成员</h3>
+  <p class="home-section__text">实验室目前包括两位副教授，一名博士后以及三个年级二十余位硕士生。主要进行光电成像、智能图像处理、计算光学成像以及机器视觉算法方向的研究。</p>
+  <a class="more-link" href="{{ '/labIntro/' | relative_url }}">了解更多&rarr;</a>
+</section>
+
+<script>
+(function () {
+  var box = document.getElementById("dir-slideshow");
+  if (!box) return;
+  var slides = box.querySelectorAll(".dir-slide");
+  if (slides.length < 2) return;
+  var i = 0;
+  setInterval(function () {
+    slides[i].classList.remove("is-active");
+    i = (i + 1) % slides.length;
+    slides[i].classList.add("is-active");
+  }, 3000);
+})();
+</script>
