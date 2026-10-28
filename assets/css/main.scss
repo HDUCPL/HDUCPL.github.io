@@ -64,17 +64,17 @@ search: false
 	overflow: hidden;
 	border-radius: 6px;
 }
+.dir-track {
+	display: flex;
+	height: 100%;
+	transition: transform 0.6s ease;
+	will-change: transform;
+}
 .dir-slide {
-	position: absolute;
-	inset: 0;
+	flex: 0 0 100%;
 	width: 100%;
 	height: 100%;
 	object-fit: contain;
-	opacity: 0;
-	transition: opacity 0.8s ease;
-}
-.dir-slide.is-active {
-	opacity: 1;
 }
 .more-link {
 	display: inline-block;

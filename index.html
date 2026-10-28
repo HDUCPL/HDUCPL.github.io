@@ -8,17 +8,19 @@ entries_layout: grid
 <section class="home-section">
   <h3 class="home-section__title">实验室研究方向</h3>
   <div class="dir-slideshow" id="dir-slideshow">
-    <img class="dir-slide is-active" src="{{ '/research_picture/spectrum.png' | relative_url }}" alt="研究方向">
-    <img class="dir-slide" src="{{ '/research_picture/FPM.png' | relative_url }}" alt="研究方向">
-    <img class="dir-slide" src="{{ '/research_picture/med.png' | relative_url }}" alt="研究方向">
-    <img class="dir-slide" src="{{ '/research_picture/散射.png' | relative_url }}" alt="研究方向">
-    <img class="dir-slide" src="{{ '/research_picture/haze.png' | relative_url }}" alt="研究方向">
-    <img class="dir-slide" src="{{ '/research_picture/point_cloud1.png' | relative_url }}" alt="研究方向">
-    <img class="dir-slide" src="{{ '/research_picture/point_cloud2.png' | relative_url }}" alt="研究方向">
-    <img class="dir-slide" src="{{ '/research_picture/deblur.png' | relative_url }}" alt="研究方向">
-    <img class="dir-slide" src="{{ '/research_picture/aioir.png' | relative_url }}" alt="研究方向">
-    <img class="dir-slide" src="{{ '/research_picture/visibal_light.png' | relative_url }}" alt="研究方向">
-    <img class="dir-slide" src="{{ '/research_picture/small_target.png' | relative_url }}" alt="研究方向">
+    <div class="dir-track">
+      <img class="dir-slide" src="{{ '/research_picture/spectrum.png' | relative_url }}" alt="研究方向">
+      <img class="dir-slide" src="{{ '/research_picture/FPM.png' | relative_url }}" alt="研究方向">
+      <img class="dir-slide" src="{{ '/research_picture/med.png' | relative_url }}" alt="研究方向">
+      <img class="dir-slide" src="{{ '/research_picture/散射.png' | relative_url }}" alt="研究方向">
+      <img class="dir-slide" src="{{ '/research_picture/haze.png' | relative_url }}" alt="研究方向">
+      <img class="dir-slide" src="{{ '/research_picture/point_cloud1.png' | relative_url }}" alt="研究方向">
+      <img class="dir-slide" src="{{ '/research_picture/point_cloud2.png' | relative_url }}" alt="研究方向">
+      <img class="dir-slide" src="{{ '/research_picture/deblur.png' | relative_url }}" alt="研究方向">
+      <img class="dir-slide" src="{{ '/research_picture/aioir.png' | relative_url }}" alt="研究方向">
+      <img class="dir-slide" src="{{ '/research_picture/visibal_light.png' | relative_url }}" alt="研究方向">
+      <img class="dir-slide" src="{{ '/research_picture/small_target.png' | relative_url }}" alt="研究方向">
+    </div>
   </div>
   <a class="more-link" href="{{ '/research-directions/' | relative_url }}">了解更多&rarr;</a>
 </section>
@@ -33,13 +35,13 @@ entries_layout: grid
 (function () {
   var box = document.getElementById("dir-slideshow");
   if (!box) return;
+  var track = box.querySelector(".dir-track");
   var slides = box.querySelectorAll(".dir-slide");
-  if (slides.length < 2) return;
+  if (!track || slides.length < 2) return;
   var i = 0;
   setInterval(function () {
-    slides[i].classList.remove("is-active");
     i = (i + 1) % slides.length;
-    slides[i].classList.add("is-active");
+    track.style.transform = "translateX(-" + (i * 100) + "%)";
   }, 3000);
 })();
 </script>
