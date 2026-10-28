@@ -4,7 +4,7 @@ date: 2025-04-02
 permalink: /news/congratulations-lvyuhan-paper-accepted/
 layout: single
 categories:
-  - 最新动态
+  - 科研动态
 header:
   teaser: /assets/images/congratulation-lvyuhan-2025-4-2.png  # 你需要把论文截图放在这个路径下
 redirect_from:

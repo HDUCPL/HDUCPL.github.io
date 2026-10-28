@@ -1,13 +1,12 @@
 ---
-layout: category
-taxonomy: 最新动态
+layout: single
 title: "最新动态"
 permalink: /news/
 author_profile: true
-entries_layout: list
 redirect_from:
   - /categories/最新动态/
   - /categories/#最新动态
   - /categories/实验室生活/
   - /categories/#实验室生活
 ---
+{% include news-columns.html limit=100 %}

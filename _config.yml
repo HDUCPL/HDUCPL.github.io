@@ -337,7 +337,12 @@ defaults:
 
   
   - scope:
-      path: "_posts/最新动态"
+      path: "_posts/科研动态"
+    values:
+      permalink: /news/:title/
+
+  - scope:
+      path: "_posts/生活动态"
     values:
       permalink: /news/:title/
 

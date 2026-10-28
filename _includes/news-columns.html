@@ -1,0 +1,37 @@
+{%- assign research_posts = site.categories["科研动态"] -%}
+{%- assign life_posts = site.categories["生活动态"] -%}
+{%- assign news_limit = include.limit | default: 100 -%}
+<div class="news-cols">
+  <section class="news-col">
+    <h3 class="news-col__title">科研动态</h3>
+    {% for post in research_posts limit: news_limit %}
+    <a class="news-item" href="{{ post.url | relative_url }}">
+      {%- if post.header.teaser -%}
+      <img class="news-item__thumb" src="{{ post.header.teaser | relative_url }}" alt="">
+      {%- else -%}
+      <span class="news-item__thumb news-item__thumb--empty"></span>
+      {%- endif -%}
+      <span class="news-item__body">
+        <span class="news-item__date">{{ post.date | date: "%Y-%m-%d" }}</span>
+        <span class="news-item__title">{{ post.title }}</span>
+      </span>
+    </a>
+    {% endfor %}
+  </section>
+  <section class="news-col">
+    <h3 class="news-col__title">生活动态</h3>
+    {% for post in life_posts limit: news_limit %}
+    <a class="news-item" href="{{ post.url | relative_url }}">
+      {%- if post.header.teaser -%}
+      <img class="news-item__thumb" src="{{ post.header.teaser | relative_url }}" alt="">
+      {%- else -%}
+      <span class="news-item__thumb news-item__thumb--empty"></span>
+      {%- endif -%}
+      <span class="news-item__body">
+        <span class="news-item__date">{{ post.date | date: "%Y-%m-%d" }}</span>
+        <span class="news-item__title">{{ post.title }}</span>
+      </span>
+    </a>
+    {% endfor %}
+  </section>
+</div>

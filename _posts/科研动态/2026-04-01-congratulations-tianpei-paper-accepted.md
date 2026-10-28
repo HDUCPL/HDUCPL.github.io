@@ -4,7 +4,7 @@ date: 2026-04-01
 permalink: /news/congratulations-tianpei-paper-accepted/
 layout: single
 categories:
-  - 最新动态
+  - 科研动态
 header:
   teaser: /assets/images/congratulation-tianpei-2026-04-01.png  # 你需要把论文截图放在这个路径下
 redirect_from:

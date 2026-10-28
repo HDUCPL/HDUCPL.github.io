@@ -4,7 +4,7 @@ date: 2025-12-19
 permalink: /news/congratulations-wengyu-paper-accepted-2/
 layout: single
 categories:
-  - 最新动态
+  - 科研动态
 header:
   teaser: /assets/images/congratulation-wengyu-2025-12-19.png  # 你需要把论文截图放在这个路径下
 ---

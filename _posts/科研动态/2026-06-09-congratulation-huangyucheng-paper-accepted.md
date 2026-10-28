@@ -4,7 +4,7 @@ date: 2026-06-09
 permalink: /news/congratulation-huangyucheng-paper-accepted/
 layout: single
 categories:
-  - 最新动态
+  - 科研动态
 header:
   teaser: /assets/images/Congratulation_Huang Yucheng-2026-6-9.png  # 你需要把论文截图放在这个路径下
 redirect_from:

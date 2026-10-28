@@ -4,7 +4,7 @@ date: 2025-07-23
 permalink: /news/congratulations-liuhaoyu-paper-accepted/
 layout: single
 categories:
-  - 最新动态
+  - 科研动态
 header:
   teaser: /assets/images/congratulation-liuhaoyu-2025-7-23.png  # 你需要把论文截图放在这个路径下
 redirect_from:

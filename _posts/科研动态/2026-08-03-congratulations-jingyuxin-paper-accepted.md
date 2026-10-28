@@ -4,7 +4,7 @@ date: 2026-08-03
 permalink: /news/congratulations-jingyuxin-paper-accepted/
 layout: single
 categories:
-  - 最新动态
+  - 科研动态
 header:
   teaser: /assets/images/congratulation-jingyuxin-2026-8-3.png  # 你需要把论文截图放在这个路径下
 redirect_from:

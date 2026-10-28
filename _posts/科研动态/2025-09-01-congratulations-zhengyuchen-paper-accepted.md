@@ -4,7 +4,7 @@ date: 2025-09-01
 permalink: /news/congratulations-zhengyuchen-paper-accepted/
 layout: single
 categories:
-  - 最新动态
+  - 科研动态
 header:
   teaser: /assets/images/congratulation-zyc-2025-9-1.jpg  # 你需要把论文截图放在这个路径下
 redirect_from:

@@ -4,7 +4,7 @@ date: 2026-06-01
 permalink: /news/congratulation-shaojiangang/
 layout: single
 categories:
-  - 最新动态
+  - 科研动态
 header:
   teaser: /assets/images/congratulation-shaojiangang-2026-6-1.png  # 你需要把论文截图放在这个路径下
 redirect_from:

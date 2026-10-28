@@ -4,7 +4,7 @@ date: 2026-09-19
 permalink: /news/autumn-outing/
 layout: single
 categories:
-  - 最新动态
+  - 生活动态
 header:
   teaser: /assets/images/autumn-outing-2026.jpg  # 你需要把论文截图放在这个路径下
 redirect_from:

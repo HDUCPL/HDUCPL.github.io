@@ -4,7 +4,7 @@ date: 2025-05-02
 permalink: /news/congratulations-weixiaojie-paper-accepted/
 layout: single
 categories:
-  - 最新动态
+  - 科研动态
 header:
   teaser: /assets/images/congratulation-wxj-2025-5-2.png  # 你需要把论文截图放在这个路径下
 redirect_from:

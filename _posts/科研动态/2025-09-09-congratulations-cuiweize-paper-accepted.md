@@ -4,7 +4,7 @@ date: 2025-09-09
 permalink: /news/congratulations-cuiweize-paper-accepted/
 layout: single
 categories:
-  - 最新动态
+  - 科研动态
 header:
   teaser: /assets/images/congratulation-cwz-2025-9-9.png  # 你需要把论文截图放在这个路径下
 redirect_from:

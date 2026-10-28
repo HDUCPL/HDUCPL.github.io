@@ -4,7 +4,7 @@ date: 2025-10-30
 permalink: /news/congratulations-zhangtianpei-paper-accepted-2/
 layout: single
 categories:
-  - 最新动态
+  - 科研动态
 header:
   teaser: /assets/images/congratulation-tianpei-2025-10-30.png  # 你需要把论文截图放在这个路径下
 ---
