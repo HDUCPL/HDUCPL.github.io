@@ -1,5 +1,5 @@
 ---
-title: "2026年10月31日青年林烧烤野炊"
+title: "2026年青年林烧烤野炊"
 date: 2026-10-31
 permalink: /news/youth-forest-bbq/
 layout: single
